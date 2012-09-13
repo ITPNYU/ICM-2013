@@ -1,4 +1,0 @@
-Install Processing to run this program:
-
-http://www.processing.org/download
-
