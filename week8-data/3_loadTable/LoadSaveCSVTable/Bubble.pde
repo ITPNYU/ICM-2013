@@ -9,33 +9,38 @@
 class Bubble {
   float x,y;
   float diameter;
-  float speed;
-  float r,g;
+  String name;
+  
+  boolean over = false;
   
   // The constructor initializes color and size
   // Location is filled randomly
-  Bubble(float r_, float g_, float diameter_) {
-    x = random(width);
-    y = height;
-    r = r_;
-    g = g_;
+  Bubble(float x_, float y_, float diameter_, String s) {
+    x = x_;
+    y = y_;
     diameter = diameter_;
+    name = s;
+  }
+  
+  void rollover(float px, float py) {
+    float d = dist(px,py,x,y);
+    if (d < diameter/2) {
+      over = true; 
+    } else {
+      over = false;
+    }
   }
   
   // Display the Bubble
   void display() {
     stroke(0);
-    fill(r,g,255,150);
+    strokeWeight(2);
+    noFill();
     ellipse(x,y,diameter,diameter);
-  }
-  
-  // Move the bubble
-  void drift() {
-    y += random(-3,-0.1);
-    x += random(-1,1);
-    if (y < -diameter*2) {
-      y = height + diameter*2;
+    if (over) {
+      fill(0);
+      textAlign(CENTER);
+      text(name,x,y+diameter/2+20);
     }
   }
-
 }
