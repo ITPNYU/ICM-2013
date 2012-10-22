@@ -23,7 +23,7 @@ void setup() {
   // Set up columns and rows
   cols = width/videoScale;
   rows = height/videoScale;
-  video = new Capture(this,cols,rows,15);
+  video = new Capture(this,640,480);
   video.start();
   
   // Load the font
@@ -31,7 +31,7 @@ void setup() {
   // In a fixed-width font, all characters have the same width. 
   // This is useful here since we intend to display the letters one at a time spaced out evenly. 
   // See Section 17.7 for how to display text character by character with a nonfixed width font.
-  f = createFont("Courier",12,true);
+  f = createFont("Courier",14,true);
 }
 
 void draw() {
@@ -51,17 +51,17 @@ void draw() {
     for (int i = 0; i < cols; i ++ ) {
       
       // Where are we, pixel-wise?
-      int x = i*videoScale;
-      int y = j*videoScale;
+      int x = constrain(i*videoScale,0,video.width-1);
+      int y = constrain(j*videoScale,0,video.height-1);
       
       // Looking up the appropriate color in the pixel array
-      color c = video.pixels[i + j*video.width];
+      color c = video.pixels[x + y*video.width];
       // Displaying an individual character from the String instead of a rectangle
       textFont(f);
       fill(c);
       
       // One character from the source text is displayed colored accordingly to the pixel location. 
-      // A counter variable� charcount� is used to walk through the source String one character at a time.
+      // A counter variable charcount is used to walk through the source String one character at a time.
       text(chars.charAt(charcount),x,y);
       
       // Go on to the next character
