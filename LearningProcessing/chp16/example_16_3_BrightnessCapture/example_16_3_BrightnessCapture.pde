@@ -15,7 +15,8 @@ void setup() {
   
   // Step 3. Initialize Capture object via Constructor
   // video is 320 x 240, @15 fps
-  video = new Capture(this,320,240,15); 
+  video = new Capture(this,320,240); 
+  video.start();
   background(0);
 }
 

@@ -17,13 +17,14 @@ int cols, rows;
 Capture video;
 
 void setup() {
-  size(1280,1024);
+  size(640,480);
   // Initialize columns and rows
   cols = width/videoScale;
   rows = height/videoScale;
   smooth();
   // Construct the Capture object
-  video = new Capture(this,cols,rows,15);
+  video = new Capture(this,width,height);
+  video.start();
 }
 
 void draw() {
@@ -46,7 +47,7 @@ void draw() {
       // Reversing x to mirror the image
       // In order to mirror the image, the column is reversed with the following formula:
       // mirrored column = width - column - 1
-      int loc = (video.width - i - 1) + j*video.width;
+      int loc = (video.width - x - 1) + y*video.width;
 
       // Each rect is colored white with a size determined by brightness
       color c = video.pixels[loc];

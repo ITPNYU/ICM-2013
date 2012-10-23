@@ -14,10 +14,10 @@ color trackColor;
 
 void setup() {
   size(320,240);
-  video = new Capture(this,width,height,15);
+  video = new Capture(this,width,height);
+  video.start();
   // Start off tracking for red
   trackColor = color(255,0,0);
-  smooth();
 }
 
 void draw() {

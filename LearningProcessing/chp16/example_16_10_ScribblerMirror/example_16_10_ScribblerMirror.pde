@@ -24,7 +24,8 @@ void setup() {
   
   // Start the capture process
   // If the window were larger (say 800 x 600), we might want to introduce a videoScale variable so that we do not have to capture such a large image.
-  video = new Capture(this,width,height,15); 
+  video = new Capture(this,width,height);
+  video.start();
 }
 
 void draw() {

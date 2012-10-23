@@ -15,6 +15,7 @@ Movie movie;
 void setup() {
   size(320,240);
   movie = new Movie(this, "cat.mov");
+  movie.play();
 }
 
 void draw() {

@@ -11,7 +11,8 @@ Capture video;
 
 void setup() {
   size(320,240);
-  video = new Capture(this,320,240,15);
+  video = new Capture(this,320,240);
+  video.start();
   background(255);
 }
 

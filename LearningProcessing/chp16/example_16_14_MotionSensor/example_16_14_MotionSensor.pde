@@ -17,7 +17,8 @@ float threshold = 50;
 void setup() {
   size(320,240);
   // Using the default capture device
-  video = new Capture(this, width, height, 15);
+  video = new Capture(this, width, height);
+  video.start();
   // Create an empty image the same size as the video
   prevFrame = createImage(video.width,video.height,RGB);
 }

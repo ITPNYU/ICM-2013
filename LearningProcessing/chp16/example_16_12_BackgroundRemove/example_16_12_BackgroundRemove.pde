@@ -19,6 +19,7 @@ float threshold = 20;
 void setup() {
   size(320,240);
   video = new Capture(this, width, height, 30);
+  video.start();
   // Create an empty image the same size as the video
   backgroundImage = createImage(video.width,video.height,RGB);
 }

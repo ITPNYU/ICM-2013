@@ -20,7 +20,8 @@ void setup() {
   // Initialize columns and rows
   cols = width/videoScale;
   rows = height/videoScale;
-  video = new Capture(this,cols,rows,30);
+  video = new Capture(this,width,height);
+  video.start();
 }
 
 void draw() {
@@ -39,7 +40,7 @@ void draw() {
       int x = i*videoScale;
       int y = j*videoScale;
       // Looking up the appropriate color in the pixel array
-      color c = video.pixels[i + j*video.width];
+      color c = video.pixels[x + y*video.width];
       fill(c);
       stroke(0);
       rect(x,y,videoScale,videoScale);
