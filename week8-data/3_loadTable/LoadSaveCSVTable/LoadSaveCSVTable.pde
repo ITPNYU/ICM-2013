@@ -27,7 +27,7 @@ void draw() {
 
 void loadData() {
   // Load text file into a Table object
-  table = loadTable("data.txt");
+  table = loadTable("data.csv");
 
   // The size of the array of Bubble objects is determined by the total number of rows in the CSV
   bubbles = new Bubble[table.getRowCount()]; 
