@@ -2,33 +2,31 @@
 // Daniel Shiffman
 // http://www.learningprocessing.com
 
-// Example 18-8: Loading XML with simpleML
-
-import simpleML.*;
-
-XMLRequest xmlRequest;
+XML headlines;
 
 void setup() {
-  size(200,200);
-  
-  // Creating and starting the request
-  // An array of XML elements can be retrieved using getElementArray. 
-  // This only works for elements with the same name that appear multiple times in the XML document.
-  xmlRequest = new XMLRequest(this, "http://rss.news.yahoo.com/rss/topstories" );
-  xmlRequest.makeRequest();
+  size(640, 360);
+  loadData();
 }
 
 void draw() {
-  noLoop(); // Nothing to see here
-}
+  //println(headlines);
+  background(0);
 
-// When the request is complete
-void netEvent(XMLRequest ml) {
-  
-  // Retrieving an array of all XML elements inside"  title*  "tags
-  String[] headlines = ml.getElementArray( "title" );
-  for (int i = 0; i < headlines.length; i++ ) {
-    println(headlines[i]);
+  XML[] children = headlines.getChild("channel").getChildren("item");
+  for (int i = 0; i < children.length; i++) {
+    String headline = children[i].getChild("title").getContent();
+
+    fill(255);
+    text(headline, 10, 16+i*16);
   }
-
 }
+
+void loadData() {
+    headlines = loadXML("http://rss.news.yahoo.com/rss/topstories" );
+}
+
+void mousePressed() {
+  loadData();
+}
+
