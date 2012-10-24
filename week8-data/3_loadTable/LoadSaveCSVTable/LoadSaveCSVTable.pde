@@ -37,7 +37,7 @@ void loadData() {
     float x = table.getFloat(i,0);
     float y = table.getFloat(i,1);
     float d = table.getFloat(i,2);
-    float n = table.getString(i,3);
+    String n = table.getString(i,3);
     // Make a Bubble object out of the data read
     bubbles[i] = new Bubble(x,y,d,n);
   }
