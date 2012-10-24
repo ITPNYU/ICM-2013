@@ -38,6 +38,7 @@ void draw() {
   String theword = kinglear[counter];
   
   // Count how many times that word appears in King Lear
+  // A better way to do this might be using a HashMap (see HashMapClass example)
   int total = 0;
   for (int i = 0; i < kinglear.length; i ++ ) {
     if (theword.equals(kinglear[i])) {
