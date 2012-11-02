@@ -18,7 +18,8 @@ void setup() {
   f = createFont("Georgia",16,true);
   
   // Load King Lear into an array of strings
-  String url = "http://www.gutenberg.org/dirs/etext97/1ws3310.txt";
+  // File from: http://www.gutenberg.org/dirs/etext97/1ws3310.txt
+  String url = "1ws3310.txt";
   String[] rawtext = loadStrings(url);
   
   // Join the big array together as one long string
@@ -37,6 +38,7 @@ void draw() {
   String theword = kinglear[counter];
   
   // Count how many times that word appears in King Lear
+  // A better way to do this might be using a HashMap (see HashMapClass example)
   int total = 0;
   for (int i = 0; i < kinglear.length; i ++ ) {
     if (theword.equals(kinglear[i])) {

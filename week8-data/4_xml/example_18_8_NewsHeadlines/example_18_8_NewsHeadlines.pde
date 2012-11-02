@@ -29,7 +29,7 @@ void draw() {
 }
 
 void loadData() {
-  headlines = loadXML("http://rss.news.yahoo.com/rss/topstories" );
+  headlines = loadXML("http://www.nytimes.com/services/xml/rss/nyt/pop_top.xml" );
 }
 
 // Reload the headlines by clicking the mouse
