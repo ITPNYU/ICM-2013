@@ -57,7 +57,7 @@ void mousePressed() {
   table.setString(newRow, 3, "Blah");
 
   // Writing the CSV back to the same file
-  File f = new File(sketchPath("data/data.txt"));
+  File f = new File(sketchPath("data/data.csv"));
   table.writeCSV(f);
   // And reloading it
   loadData();
