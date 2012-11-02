@@ -28,30 +28,33 @@ void draw() {
 void loadData() {
   // Load text file into a Table object
   table = loadTable("data.txt");
+  table.removeTitleRow();  // shave off the first row and use it for names
 
   // The size of the array of Bubble objects is determined by the total number of rows in the CSV
   bubbles = new Bubble[table.getRowCount()]; 
 
-  for (int i = 0; i < table.getRowCount(); i++ ) {
-    // You can access data in the table via its row/column indices
-    float x = table.getFloat(i,0);
-    float y = table.getFloat(i,1);
-    float d = table.getFloat(i,2);
-    float n = table.getString(i,3);
+  // You can access iterate over all the rows in a table
+  int rowCount = 0;
+  for (TableRow row : table) {
+    // You can access the fields via their column index
+    float x = row.getFloat("x");
+    float y = row.getFloat("y");
+    float d = row.getFloat("diameter");
+    String n = row.getString("name");
     // Make a Bubble object out of the data read
-    bubbles[i] = new Bubble(x,y,d,n);
-  }
+    bubbles[rowCount] = new Bubble(x, y, d, n);
+    rowCount++;
+  }  
+
 }
 
 void mousePressed() {
-  // When the mouse is clicked we create a "row" as an array of Strings
-  String[] data = new String[4];
-  data[0] = "" + mouseX;  // Even though an integer is in the table, we have to make it a String to insert
-  data[1] = "" + mouseY;
-  data[2] = "" + random(40, 80); 
-  data[3] = "Blah";
-  // Adding the row
-  table.addRow(data); 
+  // When the mouse is clicked we set the values for a new row
+  int newRow = table.getRowCount();
+  table.setFloat(newRow, 0, mouseX);
+  table.setFloat(newRow, 1, mouseY);
+  table.setFloat(newRow, 2, random(40, 80));
+  table.setString(newRow, 3, "Blah");
 
   // Writing the CSV back to the same file
   File f = new File(sketchPath("data/data.txt"));
