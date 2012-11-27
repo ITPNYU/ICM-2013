@@ -1,0 +1,27 @@
+<html>
+	<head>
+		<title>Pass value into Processing.js</title>
+		<script src="processing.js" type="text/javascript"></script>
+		<style>
+			body {
+				background-color: #FFFFFF;
+			}
+		</style>
+	</head>
+
+	<body align=center>
+
+		<p>This is a plain HTML page with a Processing sketch.</p>
+		<p>The height of the bar (<span id="value"></span>) comes from a JavaScript variable.</p>
+
+		<script type="application/javascript">
+			var jsValue = 150;
+		    document.getElementById("value").innerHTML = jsValue;
+		</script>
+
+		<canvas id="processing" data-processing-sources="graph.pde" width="200" height="200">
+			<p>Your browser does not support the canvas tag.</p>
+		</canvas>
+
+	</body>
+</html>
