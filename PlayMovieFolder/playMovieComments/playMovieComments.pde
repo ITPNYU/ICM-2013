@@ -39,7 +39,7 @@ void draw(){
   }
   textFont(myFont,12);
   float w = textWidth(commentSoFar);
-  text (commentSoFar, width/2-w/2, myMovie.height+42);
+  text (commentSoFar, max(0,currentLoc-w/2), myMovie.height+42);
   //draw Comments
   for(int i = 0; i < comments.size(); i++){
     Comment thisComment = comments.get(i);
@@ -47,7 +47,7 @@ void draw(){
      int fontSize = int(map(diffPos, width/2.0, 0.0, 2.0,24.0));
     textFont(myFont, fontSize);
     w = textWidth(thisComment.comment);
-    text(thisComment.comment, thisComment.loc-w/2, myMovie.height + 40);
+    text(thisComment.comment, thisComment.loc-w/2, myMovie.height + 60);
   }
 }
 
