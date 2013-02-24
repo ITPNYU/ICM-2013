@@ -2,8 +2,6 @@ import processing.video.*;
 
 Movie myMovie;
 int currentTime;
-int[] mousDownLocs;
-int[] mouseUpLocs;
 float currentLoc ;
 boolean playing = true;
 PImage play, pause;
