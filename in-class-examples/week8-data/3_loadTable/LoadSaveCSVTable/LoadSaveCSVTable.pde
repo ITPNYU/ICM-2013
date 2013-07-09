@@ -1,6 +1,3 @@
-// Learning Processing
-// Daniel Shiffman
-// http://www.learningprocessing.com
 
 // An Array of Bubble objects
 Bubble[] bubbles;
@@ -27,8 +24,7 @@ void draw() {
 
 void loadData() {
   // Load text file into a Table object
-  table = loadTable("data.csv");
-  table.removeTitleRow();  // shave off the first row and use it for names
+  table = loadTable("data.csv","header");
 
   // The size of the array of Bubble objects is determined by the total number of rows in the CSV
   bubbles = new Bubble[table.getRowCount()]; 
@@ -54,9 +50,15 @@ void mousePressed() {
   row.setFloat("y", mouseY);
   row.setFloat("diameter", random(40, 80));
   row.setString("name", "Blah");
+<<<<<<< HEAD
   
   // Writing the CSV back to the same file
   saveTable(table, "data.csv");
+=======
+
+  // Writing the CSV back to the same file
+  saveTable(table,"data/data.csv");
+>>>>>>> d0c048e9c846ff86c0146dbf5329ce05ff279ed9
   // And reloading it
   loadData();
 }
