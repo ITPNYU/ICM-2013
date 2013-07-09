@@ -13,7 +13,7 @@ Introduction to Computational Media Syllabus
 - [Processing site tutorials](http://www.processing.org/learning/)
 
 Week 1 -- Introduction and Drawing
-        --------------------------------
+-----------------------------
 - Why are we here? What is computational media?  What is programming? What is it good for? What kinds of programming languages are there?
 - Algorithmic Thinking
 - What is Processing?  Why Processing?
@@ -50,7 +50,7 @@ Week 1 -- Introduction and Drawing
     - Examples: http://www.learningprocessing.com/examples/ -- take a look at Chapter 1 and 2 (3 if you are feeling ambitious).
 
 Week 2 -- Animation
-        --------------------------------
+-----------------------------
 - The flow: code blocks, setup, draw, and events: http://www.learningprocessing.com/examples/chapter-3/
 - Variation: mouseX,mouseY
 - Variables: Declare, Initialize, Use: http://www.learningprocessing.com/examples/chapter-4/
@@ -63,7 +63,7 @@ Week 2 -- Animation
     - Create a animated application. You can continue to elaborate on last week's assignment or you can design something new.  Use variables to change colors, grow and shrink your design, etc.  Play with mouseX and mouseY.  Start by working in pairs (according to the wiki: ClassWork/Homework-Shiffman-ICM-F12).  We will allocate some time in class for this.  You can post together or break off and complete the assignment individually.  
 
 Week 3 -- Interaction
-        --------------------------------
+-----------------------------
 - Conditionals: http://www.learningprocessing.com/examples/chapter-5/
     - If, else if, else
     - Boolean variables
@@ -89,7 +89,7 @@ Week 3 -- Interaction
     - Moving beyond the exercise, can you invent new GUI elements beyond buttons, sliders, rollovers, etc.?   Use the new pairs according to the wiki: ClassWork/Homework-Shiffman-ICM-F12.   Swap sketches and riff of of your partner's work.  You can post as a group or break off and complete the assignment individually.  
 
 Week 4 --  Functions & Objects: Part 1
-        --------------------------------
+-----------------------------
 - The Theory of Object Oriented Programming
 - Functions: http://www.learningprocessing.com/examples/chapter-7/
     - Re-usability
@@ -110,7 +110,7 @@ Week 4 --  Functions & Objects: Part 1
     - Re-organize the code of a previous assignment or example using functions and objects.  If you are inspired by the power of modularity, feel free to elaborate on the assignment.  Work individually or in pairs (no pairs will be assigned this week.)  Post results to the wiki: ClassWork/Homework-Shiffman-ICM-F12
 
 Week 5 -- Functions & Objects Part 2
-        --------------------------------
+-----------------------------
 - Objects: http://www.learningprocessing.com/examples/chapter-8/
     - Principles and Theory (Encapsulation)
     - How-to
@@ -124,7 +124,7 @@ Week 5 -- Functions & Objects Part 2
         - For example: Consider building a [particle system](http://en.wikipedia.org/wiki/Particle_system).  A particle system can be used to simulate: rain, snow, fireworks, explosions, smoke, etc.  For this week, you would create a Particle class to describe a single particle and try to get two particles on the screen using separate variables. (Then next week, after we learn arrays, you would visualize hundreds (or thousands) of particles on the screen.)
 
 Week 6 -- Repetition and Reproduction
-        --------------------------------
+-----------------------------
 - Review loops: http://www.learningprocessing.com/examples/chapter-6/
 - Arrays: http://www.learningprocessing.com/examples/chapter-9/
 - A String is like an array of characters: http://processing.org/learning/text/
@@ -137,7 +137,7 @@ Week 6 -- Repetition and Reproduction
     - Using arrays and loops, write a program that creates multiple instances of an object (feel free to use an object you developed previously or create something new).  
 
 Week 7 -- Pixels
-        --------------------------------
+--------------------------------
 - Images
     - Load and display
     - Sequence
@@ -164,7 +164,7 @@ Week 7 -- Pixels
         - Use the kinect to track a skeleton.  Can you "puppeteer" an avatar/animation with the kinect?
 
 Week 8 -- Data
-        --------------------------------
+-----------------------------
 - Pixel project presentations.  
 - Basics of working with Strings
     - Tutorial: http://processing.org/learning/text/
@@ -212,7 +212,7 @@ Week 8 -- Data
         - See the [http://itp.nyu.edu/varwiki/ClassWork/Homework-Shiffman-ICM-F12 | wiki] for suggestions.
 
 Week 9 -- Advanced Graphics
-        --------------------------------
+-----------------------------
 - '''Translate, Rotate, Scale:''' http://processing.org/learning/transform2d/
     - Examples from Chris Kairalla
         - [Godzilla](http://itp.nyu.edu/~ck987/icm2012/week9/godzilla/)
@@ -232,11 +232,11 @@ Week 9 -- Advanced Graphics
 - Homework: Prepare a final project proposal.  Create a web page or blog post with title, description, sample imagery, diagrams, Processing code, etc.  Be prepared to present your proposal to the class next week.
 
 Week 10 --  Propose Final Projects
-        --------------------------------
+-----------------------------
 - '''Proposal Schedule: ClassWork/Homework-Shiffman-ICM-F12'''
 
 Week 11 -- Bonus Topics
-        --------------------------------
+-----------------------------
 - Final Project Progress Discussions
 - Bonus Topics
     - PVector: 
@@ -258,11 +258,11 @@ Week 11 -- Bonus Topics
     - Chapters 22 and 23 from Learning Processing
 
 Week 12 -- Final Project Presentations
-        --------------------------------
+-----------------------------
 - Please add your link to your final project documentation here: ClassWork/Homework-Shiffman-ICM-F12
 
 Requirements
-        --------------------------------
+-----------------------------
 - You are required to attend all class meetings and submit all weekly assignments, a midterm, and a final project.
 
 - Grading (pass/fail) will be based on a combination of factors:
