@@ -1,10 +1,8 @@
 Introduction to Computational Media Syllabus
 ============================================
-
 - Tuesday, 12:05pm - 3:00pm, Room 50
 - daniel.shiffman@nyu.edu
 - [Office Hours Sign Up](https://itp.nyu.edu/inwiki/Signup/Shiffman)
-
 - [General ICM Page](http://itp.nyu.edu/varwiki/Syllabus/ICM-All-F12): includes links to helpful resources, work from other sections, and instructions on how to upload your homework.
 - [Homework Wiki](http://itp.nyu.edu/varwiki/ClassWork/Homework-Shiffman-ICM-F12): This is where you post links to your weekly assignments.
 - [Main Processing page](http://processing.org/)
