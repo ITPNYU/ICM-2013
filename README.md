@@ -38,8 +38,8 @@ Extra Help
 - [Research Resident Office Hours](https://itp.nyu.edu/inwiki/)
 - ICM Help Session
 
-Stuff Made with Processing and Computational Media
---------------------------------------------------
+Inspirational Projects
+----------------------
 - ClassWork/ProcessingLinks
 
 Resources
