@@ -35,7 +35,7 @@ void loadData() {
 
   // You can access iterate over all the rows in a table
   int rowCount = 0;
-  for (TableRow row : table) {
+  for (TableRow row : table.rows()) {
     // You can access the fields via their column index
     float x = row.getFloat("x");
     float y = row.getFloat("y");
@@ -44,21 +44,19 @@ void loadData() {
     // Make a Bubble object out of the data read
     bubbles[rowCount] = new Bubble(x, y, d, n);
     rowCount++;
-  }  
-
+  }
 }
 
 void mousePressed() {
   // When the mouse is clicked we set the values for a new row
-  int newRow = table.getRowCount();
-  table.setFloat(newRow, 0, mouseX);
-  table.setFloat(newRow, 1, mouseY);
-  table.setFloat(newRow, 2, random(40, 80));
-  table.setString(newRow, 3, "Blah");
-
+  TableRow row = table.addRow();
+  row.setFloat("x", mouseX);
+  row.setFloat("y", mouseY);
+  row.setFloat("diameter", random(40, 80));
+  row.setString("name", "Blah");
+  
   // Writing the CSV back to the same file
-  File f = new File(sketchPath("data/data.csv"));
-  table.writeCSV(f);
+  saveTable(table, "data.csv");
   // And reloading it
   loadData();
 }
