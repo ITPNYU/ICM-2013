@@ -211,19 +211,19 @@ Week 8 -- Data
 
 Week 9 -- Advanced Graphics
 -----------------------------
-- *Translate, Rotate, Scale:* http://processing.org/learning/transform2d/
+- **Translate, Rotate, Scale:** http://processing.org/learning/transform2d/
     - Examples from Chris Kairalla
         - [Godzilla](http://itp.nyu.edu/~ck987/icm2012/week9/godzilla/)
         - [Danny Rozin's Clock](http://itp.nyu.edu/~ck987/icm2012/week9/clock/)
         - [Danny Rozin's 3D Box Grid](http://itp.nyu.edu/~ck987/icm2012/week9/3d_box_grid/)
         - [Solar System](http://itp.nyu.edu/~ck987/icm2012/week9/planets/) - Advanced Level Demo
-- *P3D:* http://processing.org/learning/p3d/
+- **P3D:** http://processing.org/learning/p3d/
     - 3D shapes, vertices
     - textures
     - lighting
     - shaders
-- *PShape:* http://processing.org/learning/pshape/
-- *PGraphics*
+- **PShape:** http://processing.org/learning/pshape/
+- **PGraphics**
     - Examples from Chris Kairalla
         - [Simple PGraphics Demo](http://itp.nyu.edu/~ck987/icm2012/week9/pgraphics/)
         - [PGraphics Grid](http://itp.nyu.edu/~ck987/icm2012/week9/pgraphics_grid/)
@@ -231,7 +231,7 @@ Week 9 -- Advanced Graphics
 
 Week 10 --  Propose Final Projects
 -----------------------------
-- *Proposal Schedule: ClassWork/Homework-Shiffman-ICM-F12*
+- **Proposal Schedule: ClassWork/Homework-Shiffman-ICM-F12**
 
 Week 11 -- Bonus Topics
 -----------------------------
