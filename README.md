@@ -1,6 +1,10 @@
 Intro to Computational Media (Fall 2013)
 ========================================
 
+Syllabus
+--------
+- [Main Syllabus](https://github.com/ITPNYU/ICM-2013/blob/master/Syllabus-2013.md)
+
 Listserv
 --------
 Sign up for the ICM google group:
