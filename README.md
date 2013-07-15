@@ -1,5 +1,8 @@
-Introduction to Computational Media (Fall 2013) 
-===============================================
+Introduction to Computational Media
+===================================
+
+Fall 2013
+---------
 
 Listserv
 --------
