@@ -1,14 +1,18 @@
 Introduction to Computational Media Syllabus
 ============================================
-- Tuesday, 12:05pm - 3:00pm, Room 50
-- daniel.shiffman@nyu.edu
-- [Office Hours Sign Up](https://itp.nyu.edu/inwiki/Signup/Shiffman)
 - [General ICM Page](http://itp.nyu.edu/varwiki/Syllabus/ICM-All-F12): includes links to helpful resources, work from other sections, and instructions on how to upload your homework.
-- [Homework Wiki](http://itp.nyu.edu/varwiki/ClassWork/Homework-Shiffman-ICM-F12): This is where you post links to your weekly assignments.
 - [Main Processing page](http://processing.org/)
 - [book: www.learningprocessing.com](http://www.learningprocessing.com)
 - [Other Processing books available](http://processing.org/learning/books/)
 - [Processing site tutorials](http://www.processing.org/learning/)
+
+Individual Section Info
+-----------------------
+- [Daniel Shiffman Tuesday](https://github.com/ITPNYU/ICM-2013/blob/master/sections/Shiffman-Tues-2013.md)
+- Daniel Shiffman Wednesday
+- Danny Rozin Tuesday
+- etc.
+- etc.
 
 Week 1 -- Introduction and Drawing
 -----------------------------
