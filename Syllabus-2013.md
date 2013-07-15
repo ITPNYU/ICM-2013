@@ -6,11 +6,11 @@ Introduction to Computational Media Syllabus
 - [Other Processing books available](http://processing.org/learning/books/)
 - [Processing site tutorials](http://www.processing.org/learning/)
 
-Individual Section Info
+Sections
 -----------------------
-- [Daniel Shiffman Tuesday](https://github.com/ITPNYU/ICM-2013/blob/master/sections/Shiffman-Tues-2013.md)
-- Daniel Shiffman Wednesday
-- Danny Rozin Tuesday
+- Shiffman, Tuesday, 12:05-3:00pm:  Info(https://github.com/ITPNYU/ICM-2013/blob/master/sections/Shiffman-Tues-2013.md), [Homework](http://itp.nyu.edu/varwiki/ClassWork/Homework-Shiffman-ICM-Tues-F13)
+- Shiffman, Wednesday. . . 
+- Rozin . . 
 - etc.
 - etc.
 
@@ -262,13 +262,3 @@ Week 11 -- Bonus Topics
 Week 12 -- Final Project Presentations
 -----------------------------
 - Please add your link to your final project documentation here: ClassWork/Homework-Shiffman-ICM-F12
-
-Requirements
------------------------------
-- You are required to attend all class meetings and submit all weekly assignments, a midterm, and a final project.
-
-- Grading (pass/fail) will be based on a combination of factors:
-    - Attendance, participation in class discussion, and engagement in other students' projects (25%)
-    - Quality of weekly assignments and midterm (50%) 
-    - Final Project (25%)
-    - Personal progress; how much did you advance from your initial state in this class.

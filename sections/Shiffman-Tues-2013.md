@@ -8,13 +8,23 @@ Syllabus
 
 Homework
 --------
-- [Homework Wiki](http://itp.nyu.edu/varwiki/ClassWork/Homework-Shiffman-ICM-F13): This is where you post links to your weekly assignments
+- [Homework Wiki](http://itp.nyu.edu/varwiki/ClassWork/Homework-Shiffman-ICM-Tues-F13): This is where you post links to your weekly assignments
 
 Schedule / Contact
 ------------------
 - Tuesday, 12:05pm - 3:00pm, Room 50
 - daniel.shiffman@nyu.edu
 - [Office Hours Sign Up](https://itp.nyu.edu/inwiki/Signup/Shiffman)
+
+Requirements
+------------
+- You are required to attend all class meetings and submit all weekly assignments and a final project.
+
+- Grading (pass/fail) will be based on a combination of factors:
+    - Attendance, participation in class discussion, and engagement in other students' projects (25%)
+    - Quality of weekly assignments (50%) 
+    - Final Project (25%)
+    - Personal progress; how much did you advance from your initial state in this class.
 
 Class Dates
 -----------
