@@ -8,7 +8,7 @@ Introduction to Computational Media Syllabus
 
 Sections
 -----------------------
-- Shiffman, Tuesday, 12:05-3:00pm:  Info(https://github.com/ITPNYU/ICM-2013/blob/master/sections/Shiffman-Tues-2013.md), [Homework](http://itp.nyu.edu/varwiki/ClassWork/Homework-Shiffman-ICM-Tues-F13)
+- Shiffman, Tuesday, 12:05-3:00pm:  [Info](https://github.com/ITPNYU/ICM-2013/blob/master/sections/Shiffman-Tues-2013.md), [Homework](http://itp.nyu.edu/varwiki/ClassWork/Homework-Shiffman-ICM-Tues-F13)
 - Shiffman, Wednesday. . . 
 - Rozin . . 
 - etc.
