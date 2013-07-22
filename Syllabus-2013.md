@@ -59,7 +59,7 @@ Week 2 -- Animation
     - Chapters 3-4 from Learning Processing.
     - Chapters 4-5 from [Getting Started with Processing](http://my.safaribooksonline.com/9781449379827?portal=oreilly&cid=orm-cat-readnow-9781449379827)
 - Homework
-    - Create a animated application. You can continue to elaborate on last week's assignment or you can design something new.  Use variables to change colors, grow and shrink your design, etc.  Play with mouseX and mouseY.  Start by working in pairs (according to the wiki: ClassWork/Homework-Shiffman-ICM-F12).  We will allocate some time in class for this.  You can post together or break off and complete the assignment individually.  
+    - Create a animated application. You can continue to elaborate on last week's assignment or you can design something new.  Use variables to change colors, grow and shrink your design, etc.  Play with mouseX and mouseY.  Start by working in pairs (according to your section's wiki).  We will allocate some time in class for this.  You can post together or break off and complete the assignment individually.  
 
 Week 3 -- Interaction
 -----------------------------
@@ -85,7 +85,7 @@ Week 3 -- Interaction
     - ["Hackers and Painters"](http://www.paulgraham.com/hp.html) by Paul Graham
 - Homework
     - In [Dropbox](https://www.dropbox.com/sh/7curz55xj5wgnpg/4gIRqHtABR) and on [Github](https://github.com/ITPNYU/ICM/tree/master/in-class-examples/week3/Traditional%20GUI) there are a set of examples for traditional GUI elements.  As an exercise, try making a rollover, button, or slider from scratch.  Compare your code to the examples.
-    - Moving beyond the exercise, can you invent new GUI elements beyond buttons, sliders, rollovers, etc.?   Use the new pairs according to the wiki: ClassWork/Homework-Shiffman-ICM-F12.   Swap sketches and riff of of your partner's work.  You can post as a group or break off and complete the assignment individually.  
+    - Moving beyond the exercise, can you invent new GUI elements beyond buttons, sliders, rollovers, etc.?   Use the new pairs according to your section's homework wiki.  Swap sketches and riff of of your partner's work.  You can post as a group or break off and complete the assignment individually.  
 
 Week 4 --  Functions & Objects: Part 1
 -----------------------------
@@ -106,7 +106,7 @@ Week 4 --  Functions & Objects: Part 1
     - Chapters 7-8 from Learning Processing.
     - Chapters 8-9 from [Getting Started with Processing](http://my.safaribooksonline.com/9781449379827?portal=oreilly&cid=orm-cat-readnow-9781449379827)
 - Homework
-    - Re-organize the code of a previous assignment or example using functions and objects.  If you are inspired by the power of modularity, feel free to elaborate on the assignment.  Work individually or in pairs (no pairs will be assigned this week.)  Post results to the wiki: ClassWork/Homework-Shiffman-ICM-F12
+    - Re-organize the code of a previous assignment or example using functions and objects.  If you are inspired by the power of modularity, feel free to elaborate on the assignment.  Work individually or in pairs (no pairs will be assigned this week.)
 
 Week 5 -- Functions & Objects Part 2
 -----------------------------
@@ -133,7 +133,7 @@ Week 6 -- Repetition and Reproduction
     - Chapters 6 and 9, from Learning Processing.
     - Chapter 10 from [Getting Started with Processing](http://my.safaribooksonline.com/9781449379827?portal=oreilly&cid=orm-cat-readnow-9781449379827)
 - Homework
-    - Using arrays and loops, write a program that creates multiple instances of an object (feel free to use an object you developed previously or create something new).  
+    - Using arrays and loops, write a program that creates multiple instances of an object (feel free to use an object you developed previously or create something new). You can consider continuing the "particle system" thread and try modeling something like rain, snow, bubbles, etc. You can also look ahead to images and data and think about how an image is an "array of pixels" an a String is an "array of characters."
 
 Week 7 -- Pixels
 --------------------------------
@@ -161,6 +161,7 @@ Week 7 -- Pixels
         - Create a software mirror by designing an abstract drawing machine which you color according to pixels from live video.
         - Create a video player.  Consider combining your pcomp media controller assignment and build a Processing sketch that allows you to switch between videos, process pixels of a video, scrub a video, etc.
         - Use the kinect to track a skeleton.  Can you "puppeteer" an avatar/animation with the kinect?
+    - Note that only the names in bold (1/2 of the class) on the wiki will present next week. The second half will present the "data" assignment the following week. You should all complete both assignments, however, and of course you can present both weeks if you have a question or something you really want to get feedback on. Feel free to switch with each other or e-mail me if you would like to switch.
 
 Week 8 -- Data
 -----------------------------
@@ -207,55 +208,58 @@ Week 8 -- Data
     - [World mapper](http://www.worldmapper.org/)
     - [Wind Map](http://hint.fm/wind/)
 - Homework: Data Project
-    - Develop a project that uses an external data source.  For this project you are required to document your work in a blog post in addition to creating the Processing sketch.
-        - See the [http://itp.nyu.edu/varwiki/ClassWork/Homework-Shiffman-ICM-F12 | wiki] for suggestions.
+    - Develop a project that uses an external data source.  For this project you should document your work in a blog post (and link below) in addition to creating the Processing sketch.  Note that certain methods for grabbing data will not work in JavaScript mode.  You can present in class using your laptop or put your sketch into dropbox.  Here are some ideas:
+        - Create a game that saves a high score list to a text file.
+        -  Track personal data over the course of a few days (exercise, sleep, computer use, eating, etc.).  Enter the data into a CSV file and visualize.
+        -  Count word frequencies in two different text sources (i.e. two different authors, two different newspapers, two different political speeches) and visualize the concordance.
+        -  Visualize weather data (http://developer.yahoo.com/weather/)
+        - Connect a Processing sketch to a web app that you create (applicable if you are taking ICM web).
+    - If you do not present your pixels assignment, you will present you data assignment next week.
 
-Week 9 -- Advanced Graphics
+Week 9 -- Bonus Topics (we will not do all of these in class but there will be a sampling)
 -----------------------------
-- **Translate, Rotate, Scale:** http://processing.org/learning/transform2d/
+- Translate, Rotate, Scale: http://processing.org/learning/transform2d/
     - Examples from Chris Kairalla
         - [Godzilla](http://itp.nyu.edu/~ck987/icm2012/week9/godzilla/)
         - [Danny Rozin's Clock](http://itp.nyu.edu/~ck987/icm2012/week9/clock/)
         - [Danny Rozin's 3D Box Grid](http://itp.nyu.edu/~ck987/icm2012/week9/3d_box_grid/)
         - [Solar System](http://itp.nyu.edu/~ck987/icm2012/week9/planets/) - Advanced Level Demo
-- **P3D:** http://processing.org/learning/p3d/
+- P3D: http://processing.org/learning/p3d/
     - 3D shapes, vertices
     - textures
     - lighting
     - shaders
-- **PShape:** http://processing.org/learning/pshape/
-- **PGraphics**
+- PShape: http://processing.org/learning/pshape/
+- PGraphics
     - Examples from Chris Kairalla
         - [Simple PGraphics Demo](http://itp.nyu.edu/~ck987/icm2012/week9/pgraphics/)
         - [PGraphics Grid](http://itp.nyu.edu/~ck987/icm2012/week9/pgraphics_grid/)
+- PVector: 
+    - [In-Class examples](https://github.com/ITPNYU/ICM/tree/master/in-class-examples/week11/PVectorExamples)
+    - [Nature of Code vector chapter](http://natureofcode.com/book/chapter-1-vectors/)
+- ArrayList
+    - [History of mouse movements](https://github.com/ITPNYU/ICM/blob/master/in-class-examples/week11/PVectorExamples/TrailPVectorArrayList/TrailPVectorArrayList.pde)
+    - [Java Documentation](http://docs.oracle.com/javase/6/docs/api/java/util/ArrayList.html)
+    - [Simple Particle System](http://processing.org/learning/topics/simpleparticlesystem.html)
+- Java
+    - [Robot Class example](https://github.com/ITPNYU/ICM/blob/master/in-class-examples/week11/RobotExample/RobotExample.pde), [Robot Java Documentation](http://docs.oracle.com/javase/6/docs/api/java/awt/Robot.html)
+    - [Try/Catch, Exceptions](http://wiki.processing.org/w/Exceptions)
+    - [Processing in Eclipse](http://processing.org/learning/eclipse/)
+    - [Processing in Sublime](https://github.com/b-g/processing-sublime)
+    - Processing.js embedded in webpage
+        - [Simple Example](https://github.com/ITPNYU/ICM/tree/master/extras/manualprocessingjs)
+        - [Processing.js Guide](http://processingjs.org/articles/PomaxGuide.html)
+
 - Homework: Prepare a final project proposal.  Create a web page or blog post with title, description, sample imagery, diagrams, Processing code, etc.  Be prepared to present your proposal to the class next week.
 
 Week 10 --  Propose Final Projects
 -----------------------------
-- **Proposal Schedule: ClassWork/Homework-Shiffman-ICM-F12**
+- ** See your individual section's proposal schedule on your wiki **
 
-Week 11 -- Bonus Topics
+Week 11 -- One on one speed user testing / feedback
 -----------------------------
-- Final Project Progress Discussions
-- Bonus Topics
-    - PVector: 
-        - [In-Class examples](https://github.com/ITPNYU/ICM/tree/master/in-class-examples/week11/PVectorExamples)
-        - [Nature of Code vector chapter](http://natureofcode.com/book/chapter-1-vectors/)
-    - ArrayList
-        - [History of mouse movements](https://github.com/ITPNYU/ICM/blob/master/in-class-examples/week11/PVectorExamples/TrailPVectorArrayList/TrailPVectorArrayList.pde)
-        - [Java Documentation](http://docs.oracle.com/javase/6/docs/api/java/util/ArrayList.html)
-        - [Simple Particle System](http://processing.org/learning/topics/simpleparticlesystem.html)
-    - Java
-        - [Robot Class example](https://github.com/ITPNYU/ICM/blob/master/in-class-examples/week11/RobotExample/RobotExample.pde), [Robot Java Documentation](http://docs.oracle.com/javase/6/docs/api/java/awt/Robot.html)
-        - [Try/Catch, Exceptions](http://wiki.processing.org/w/Exceptions)
-        - [Processing in Eclipse](http://processing.org/learning/eclipse/)
-        - [Processing in Sublime](https://github.com/b-g/processing-sublime)
-    - Processing.js embedded in webpage
-        - [Simple Example](https://github.com/ITPNYU/ICM/tree/master/extras/manualprocessingjs)
-        - [Processing.js Guide](http://processingjs.org/articles/PomaxGuide.html)
-- Related Reading
-    - Chapters 22 and 23 from Learning Processing
+- This week you will "user test" your project with fellow classmates. You must have some implementation that you can test completed by this time.  User testing can mean different things for different projects. For a game, it can mean that the user tries to play it. For an art piece, it could mean showing it to a classmate and asking for them to say what they think it is about or how it made them feel. We'll show projects in a "one on one" / round robin / speed dating-style session. 5 minutes then switch. You cannot not explain your project, just show and let the user try it and give you feedback. Then you can answer questions.  User testing schedule will be provided on a wiki.
 
 Week 12 -- Final Project Presentations
 -----------------------------
-- Please add your link to your final project documentation here: ClassWork/Homework-Shiffman-ICM-F12
+- Please add your link to your final project documentation on your section's wiki.
