@@ -6,9 +6,9 @@ Introduction to Computational Media Syllabus
 - [Other Processing books available](http://processing.org/learning/books/)
 - [Processing site tutorials](http://www.processing.org/learning/)
 
-Sections
------------------------
-- Shiffman, Tuesday, 12:05-3:00pm:  [Info](https://github.com/ITPNYU/ICM-2013/blob/master/sections/Shiffman-Tues-2013.md), [Homework](http://itp.nyu.edu/varwiki/ClassWork/Homework-Shiffman-ICM-Tues-F13)
+Section Pages and Homework Wikis
+--------------------------------
+- Shiffman, Tuesday, 12:05-3:00pm:  [Section Info](https://github.com/ITPNYU/ICM-2013/blob/master/sections/Shiffman-Tues-2013.md), [Section Homework](https://github.com/ITPNYU/ICM-2013/wiki/Homework-Shiffman-Tuesday)
 - Shiffman, Wednesday. . . 
 - Rozin . . 
 - etc.
@@ -20,7 +20,7 @@ Week 1 -- Introduction and Drawing
 - Algorithmic Thinking
 - What is Processing?  Why Processing?
 - Server-side vs. client programming
-- Things made with Processing: ClassWork/ProcessingLinks
+- [Things made with Processing](https://github.com/ITPNYU/ICM-2013/wiki/Projects)
 - Drawing with numbers
 - Processing's screen coordinates
 - Processing's drawing and color functions
@@ -30,23 +30,20 @@ Week 1 -- Introduction and Drawing
 - [Processing reference](http://processing.org/reference)
 - Running your application
 - Exporting: application, android, javascript
-- Chris Kairalla's [Notes](notesWeek1)
 - [Abstract Modern Art](http://www.abstractmodernart.com/) for inspiration
     -[Piet Mondrian](http://images.google.com/images?q=mondrian)
     -[Ron Gang](http://www.iarc.org/~4x1mk/nonfig1.htm)
     -[Sol Lewitt](http://www.ericdoeringer.com/ConArtRec/LeWitt/LeWitt.html)
 - Watch
     - Casey Reas [Eyeo 2012 talk](https://vimeo.com/45851523) on Chance Operations
-    - Watch these [Test Videos](http://itp.nyu.edu/varwiki/ClassWork/ICM-TestVideos-F12) and provide feedback using this [google form](https://docs.google.com/a/nyu.edu/spreadsheet/viewform?formkey=dFdNMjNFNUtUcENuLXZaZkhoS2psTUE6MQ)
+    - Stay tuned for link to tutorial videos
 - Related Reading
     - Chapters 1-2 from [Learning Processing](http://www.learningprocessing.com).
     - Chapters 1-3 from [Getting Started with Processing](http://my.safaribooksonline.com/9781449379827?portal=oreilly&cid=orm-cat-readnow-9781449379827)
 - Downloading Processing
-    - Download [Processing 2.0 Beta](http://www.processing.org/download/) (You may need to scroll down to the bottom of the page to find version 2.0b1).
-    - This semester we are going to use Processing 2.0 (currently in version Beta1).  The advantage of this is that this version of Processing includes Javascript mode, better support for video, and several other features.  The downside to using 2.0 is that it is new and will result in differences in the reference and examples on the Processing web site, as well as in the various Processing books.  Changes are documented on the [Processing wiki](http://wiki.processing.org/w/Changes).  If you think you have found a bug or are confused by a syntax difference, send an e-mail to the google group.
+    - Download [Processing 2.0](http://www.processing.org/download/) 
 - Homework
     - Sign up for the ITP ICM Google Group: https://groups.google.com/a/itp.nyu.edu/group/icm
-    - Sign up for our class Google Group: https://groups.google.com/a/itp.nyu.edu/group/icm-shiffman -- this will be used for administrative announcements for our section only.
     - Create your own screen drawing: self-portrait, alien, monster, etc. Use only 2D primitive shapes – arc(), curve(), ellipse(), line(), point(), quad(), rect(), triangle() – and basic color functions – background(), colorMode(), fill(), noFill(), noStroke(), stroke().  Remember to use size() to specify the dimensions of your window.
     - Post a link to the homework wiki: ClassWork/Homework-Shiffman-ICM-F12.  Instructions for how to do so are here: ClassWork/Homework-upload-instructions
     - Examples: http://www.learningprocessing.com/examples/ -- take a look at Chapter 1 and 2 (3 if you are feeling ambitious).

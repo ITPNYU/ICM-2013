@@ -17,10 +17,9 @@ Downloading Processing
 
 Section Pages and Homework Wikis
 --------------------------------
-- [Instructions for Uploading Processing sketches using JavaScript mode](http://itp.nyu.edu/varwiki/ClassWork/Homework-upload-instructions)
-- [Daniel Shiffman Tuesday](https://github.com/ITPNYU/ICM-2013/blob/master/sections/Shiffman-Tues-2013.md)
-- Daniel Shiffman Wednesday
-- Danny Rozin Tuesday
+- Shiffman, Tuesday, 12:05-3:00pm:  [Section Info](https://github.com/ITPNYU/ICM-2013/blob/master/sections/Shiffman-Tues-2013.md), [Section Homework](https://github.com/ITPNYU/ICM-2013/wiki/Homework-Shiffman-Tuesday)
+- Shiffman, Wednesday. . . 
+- Rozin . . 
 - etc.
 - etc.
 

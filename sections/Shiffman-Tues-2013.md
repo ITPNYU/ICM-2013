@@ -6,9 +6,13 @@ Syllabus
 - [Main Syllabus](https://github.com/ITPNYU/ICM-2013/blob/master/Syllabus-2013.md)
 - [General ICM Page](https://github.com/ITPNYU/ICM-2013/blob/master/README.md): includes links to helpful resources, work from other sections, and instructions on how to upload your homework.
 
+Mailing List
+------------
+-  [Shiffman ICM google group](https://groups.google.com/a/itp.nyu.edu/group/icm-shiffman) -- this will be used for administrative announcements for our section only.
+
 Homework
 --------
-- [Homework Wiki](http://itp.nyu.edu/varwiki/ClassWork/Homework-Shiffman-ICM-Tues-F13): This is where you post links to your weekly assignments
+- [Homework Wiki](https://github.com/ITPNYU/ICM-2013/wiki/Homework-Shiffman-Tuesday): This is where you post links to your weekly assignments
 
 Schedule / Contact
 ------------------
