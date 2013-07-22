@@ -41,7 +41,7 @@ Extra Help
 
 Inspirational Projects
 ----------------------
-- ClassWork/ProcessingLinks
+- https://github.com/ITPNYU/ICM-2013/wiki/Projects
 
 Resources
 ---------
