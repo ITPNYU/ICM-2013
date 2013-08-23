@@ -21,8 +21,7 @@ Section Pages and Homework Wikis
 - Shiffman, Wednesday. . . 
 - Rozin . . 
 - etc.
-- etc.
-
+- Mimi, Wednesday, 6:05-9:00pm: [Section Info](https://github.com/ITPNYU/ICM-2013/blob/master/sections/Mimi-Wed-2013.md), [Section Homework](https://github.com/ITPNYU/ICM-2013/wiki/Homework-Mimi-Wednesday)
 Videos
 ------
 - Link coming soon
