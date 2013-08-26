@@ -1,6 +1,6 @@
 Introduction to Computational Media Syllabus
 ============================================
-- [General ICM Page](http://itp.nyu.edu/varwiki/Syllabus/ICM-All-F12): includes links to helpful resources, work from other sections, and instructions on how to upload your homework.
+- [General ICM Page](https://github.com/ITPNYU/ICM-2013): includes links to helpful resources, work from other sections, and instructions on how to upload your homework.
 - [Main Processing page](http://processing.org/)
 - [book: www.learningprocessing.com](http://www.learningprocessing.com)
 - [Other Processing books available](http://processing.org/learning/books/)
