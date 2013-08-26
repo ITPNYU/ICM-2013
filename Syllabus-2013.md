@@ -10,7 +10,8 @@ Section Pages and Homework Wikis
 --------------------------------
 - Shiffman, Tuesday, 12:05-3:00pm:  [Section Info](https://github.com/ITPNYU/ICM-2013/blob/master/sections/Shiffman-Tues-2013.md), [Section Homework](https://github.com/ITPNYU/ICM-2013/wiki/Homework-Shiffman-Tuesday)
 - Shiffman, Wednesday. . . 
-- Rozin . . 
+- Rozin, Wednesday, 9:05-3:00pm:  [Section Info](https://github.com/ITPNYU/ICM-2013/blob/master/sections/Rozin-Wed-Morning-2013.md), [Section Homework](https://github.com/ITPNYU/ICM-2013/wiki/Homework-Rozin-Wed_Morning)
+
 - etc.
 - etc.
 
