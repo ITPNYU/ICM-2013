@@ -1,4 +1,4 @@
-Daniel Shiffman Section Info -- ICM 2013
+Daniel O'Sullivan Tuesday Section Info -- ICM 2013
 ========================================
 
 Syllabus
@@ -8,17 +8,17 @@ Syllabus
 
 Mailing List
 ------------
--  [Shiffman ICM google group](https://groups.google.com/a/itp.nyu.edu/group/icm-shiffman) -- this will be used for administrative announcements for our section only.
+-  [Dano Tues ICM google group](https://groups.google.com/a/itp.nyu.edu/group/icm-dano) -- this will be used for administrative announcements for our section only.
 
 Homework
 --------
-- [Homework Wiki](https://github.com/ITPNYU/ICM-2013/wiki/Homework-Shiffman-Tuesday): This is where you post links to your weekly assignments
+- [Homework Wiki](https://github.com/ITPNYU/ICM-2013/wiki/Homework-Dano-Tuesday): This is where you post links to your weekly assignments
 
 Schedule / Contact
 ------------------
-- Tuesday, 12:05pm - 3:00pm, Room 50
-- daniel.shiffman@nyu.edu
-- [Office Hours Sign Up](https://itp.nyu.edu/inwiki/Signup/Shiffman)
+- Tuesday, 12:05pm - 3:00pm, Room 20
+- dan.osullivan@nyu.edu
+- [Office Hours Sign Up](https://www.google.com/calendar/selfsched?sstoken=UVBlTFZhOVNCTmF0fGRlZmF1bHR8MmU2NTM4NjJmOTJiNTUwM2M0YTBmMzcyZDM4NjRkNmQ)
 
 Requirements
 ------------
