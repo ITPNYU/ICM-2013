@@ -18,14 +18,15 @@ Downloading Processing
 Section Pages and Homework Wikis
 --------------------------------
 - Shiffman, Tuesday, 12:05-3:00pm:  [Section Info](https://github.com/ITPNYU/ICM-2013/blob/master/sections/Shiffman-Tues-2013.md), [Section Homework](https://github.com/ITPNYU/ICM-2013/wiki/Homework-Shiffman-Tuesday)
-- Shiffman, Wednesday. . . 
-- Rozin . . 
-- etc.
+- Shiffman, Wednesday, 12:05-3:00pm:  [Section Info](https://github.com/ITPNYU/ICM-2013/blob/master/sections/Shiffman-Wed-2013.md), [Section Homework](https://github.com/ITPNYU/ICM-2013/wiki/Homework-Shiffman-Wednesday)
+- Danny, Wednesday, 9:05-12:00 and 3:05-6:00:  [Section Info](https://github.com/ITPNYU/ICM-2013/blob/master/sections/Rozin-Wed-2013.md), [Morning Section Homework](https://github.com/ITPNYU/ICM-2013/wiki/Homework-Rozin-Wed_Morning), [Afternoon Section Homework](https://github.com/ITPNYU/ICM-2013/wiki/Homework-Rozin-Wed-afternoon)
+- Dano, Tuesday, 12:05-3:00pm:  [Section Info](https://github.com/ITPNYU/ICM-2013/blob/master/sections/Dano-Tues-2013.md), [Section Homework](https://github.com/ITPNYU/ICM-2013/wiki/Homework-Dano-Tuesday)
+- Dano, Wednesday, 12:05-3:00pm:  [Section Info](https://github.com/ITPNYU/ICM-2013/blob/master/sections/Dano-Wed-2013.md), [Section Homework](https://github.com/ITPNYU/ICM-2013/wiki/Homework-Dano-Wednesday)
 - Mimi, Wednesday, 6:05-9:00pm: [Section Info](https://github.com/ITPNYU/ICM-2013/blob/master/sections/Mimi-Wed-2013.md), [Section Homework](https://github.com/ITPNYU/ICM-2013/wiki/Homework-Mimi-Wednesday)
 
 Videos
 ------
-- Link coming soon
+- http://icm.shiffman.net/
 
 Textbook 
 --------
