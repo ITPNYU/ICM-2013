@@ -8,7 +8,7 @@ Syllabus
 
 Mailing List
 ------------
--  [Rozin ICM google group](https://groups.google.com/a/itp.nyu.edu/group/icm-Rozin) -- this will be used for administrative announcements for our section only.
+-  [Rozin ICM google group](https://groups.google.com/a/itp.nyu.edu/group/icm-Rozin-group) -- this will be used for administrative announcements for our section only.
 
 Homework
 --------
