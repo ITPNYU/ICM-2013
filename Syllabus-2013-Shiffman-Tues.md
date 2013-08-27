@@ -62,8 +62,8 @@ Week 2 -- Animation && Interaction
 - Loops: http://www.learningprocessing.com/examples/chapter-6/
     - while
     - for
--Modulo
--Examples from Chris Kairalla
+- Modulo
+- Examples from Chris Kairalla
     - [more complicated mouse draw](http://itp.nyu.edu/~ck987/week2/mouseDraw/)
     - [bouncing ball demo](http://itp.nyu.edu/~ck987/icm2011/week2/ballbounce/)
     - [conditional expression demo](http://itp.nyu.edu/~ck987/week2/quadRoll/)
