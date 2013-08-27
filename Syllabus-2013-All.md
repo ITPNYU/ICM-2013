@@ -57,6 +57,8 @@ Week 2 -- Animation
 - Variables: Declare, Initialize, Use: http://www.learningprocessing.com/examples/chapter-4/
 - Random
 - Transformations
+- map() 
+- lerp()
 - Related Reading
     - Chapters 3-4 from Learning Processing.
     - Chapters 4-5 from [Getting Started with Processing](http://my.safaribooksonline.com/9781449379827?portal=oreilly&cid=orm-cat-readnow-9781449379827)
@@ -73,8 +75,8 @@ Week 3 -- Interaction
 - Loops: http://www.learningprocessing.com/examples/chapter-6/
     - while
     - for
--Modulo
--Examples from Chris Kairalla
+- Modulo
+- Examples from Chris Kairalla
     - [more complicated mouse draw](http://itp.nyu.edu/~ck987/week2/mouseDraw/)
     - [bouncing ball demo](http://itp.nyu.edu/~ck987/icm2011/week2/ballbounce/)
     - [conditional expression demo](http://itp.nyu.edu/~ck987/week2/quadRoll/)

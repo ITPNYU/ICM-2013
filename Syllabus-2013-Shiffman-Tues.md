@@ -62,6 +62,8 @@ Week 2 -- Animation && Interaction
 - Loops: http://www.learningprocessing.com/examples/chapter-6/
     - while
     - for
+- map() 
+- lerp()
 - Modulo
 - Examples from Chris Kairalla
     - [more complicated mouse draw](http://itp.nyu.edu/~ck987/week2/mouseDraw/)
