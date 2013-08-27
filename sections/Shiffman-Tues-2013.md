@@ -1,5 +1,5 @@
-Daniel Shiffman Tuesday Section Info -- ICM 2013
-========================================
+Daniel Shiffman Tuesday Section 2013
+====================================
 
 **Note this section is for students with prior programming experience and has its own syllabus separate from all other sections**
 
