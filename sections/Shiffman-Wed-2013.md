@@ -1,4 +1,4 @@
-Daniel Shiffman Section Info -- ICM 2013
+Daniel Shiffman Wednesday Section 2013
 ========================================
 
 Syllabus
