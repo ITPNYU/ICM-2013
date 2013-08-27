@@ -49,12 +49,12 @@ Week 1 -- Introduction and Drawing
 
 Week 2 -- Animation && Interaction
 ----------------------------------
-- The flow: code blocks, setup, draw, and events: http://www.learningprocessing.com/examples/chapter-3/
+- The flow: code blocks, setup, draw, and events: https://github.com/shiffman/LearningProcessing/tree/master/chp03_flow
 - Variation: mouseX,mouseY
-- Variables: Declare, Initialize, Use: http://www.learningprocessing.com/examples/chapter-4/
+- Variables: Declare, Initialize, Use: https://github.com/shiffman/LearningProcessing/tree/master/chp04_variables
 - Random
 - Transformations
-- Conditionals: http://www.learningprocessing.com/examples/chapter-5/
+- Conditionals: https://github.com/shiffman/LearningProcessing/tree/master/chp05_conditionals
     - If, else if, else
     - Boolean variables
     - Relational Operators, Logical Operators
