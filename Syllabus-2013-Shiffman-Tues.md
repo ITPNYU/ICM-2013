@@ -1,5 +1,8 @@
 Introduction to Computational Media Syllabus
 ============================================
+
+**Note this section is for students with prior programming experience and has its own syllabus separate from all other sections**
+
 - [General ICM Page](https://github.com/ITPNYU/ICM-2013): includes links to helpful resources, work from other sections, and instructions on how to upload your homework.
 - [Main Processing page](http://processing.org/)
 - [book: www.learningprocessing.com](http://www.learningprocessing.com)
@@ -9,11 +12,6 @@ Introduction to Computational Media Syllabus
 Section Pages and Homework Wikis
 --------------------------------
 - Shiffman, Tuesday, 12:05-3:00pm:  [Section Info](https://github.com/ITPNYU/ICM-2013/blob/master/sections/Shiffman-Tues-2013.md), [Section Homework](https://github.com/ITPNYU/ICM-2013/wiki/Homework-Shiffman-Tuesday)
-- Shiffman, Wednesday, 12:05-3:00pm:  [Section Info](https://github.com/ITPNYU/ICM-2013/blob/master/sections/Shiffman-Wed-2013.md), [Section Homework](https://github.com/ITPNYU/ICM-2013/wiki/Homework-Shiffman-Wednesday)
-- Danny, Wednesday, 9:05-12:00 and 3:05-6:00:  [Section Info](https://github.com/ITPNYU/ICM-2013/blob/master/sections/Rozin-Wed-2013.md), [Morning Section Homework](https://github.com/ITPNYU/ICM-2013/wiki/Homework-Rozin-Wed_Morning), [Afternoon Section Homework](https://github.com/ITPNYU/ICM-2013/wiki/Homework-Rozin-Wed-afternoon)
-- Dano, Tuesday, 12:05-3:00pm:  [Section Info](https://github.com/ITPNYU/ICM-2013/blob/master/sections/Dano-Tues-2013.md), [Section Homework](https://github.com/ITPNYU/ICM-2013/wiki/Homework-Dano-Tuesday)
-- Dano, Wednesday, 12:05-3:00pm:  [Section Info](https://github.com/ITPNYU/ICM-2013/blob/master/sections/Dano-Wed-2013.md), [Section Homework](https://github.com/ITPNYU/ICM-2013/wiki/Homework-Dano-Wednesday)
-- Mimi, Wednesday, 6:05-9:00pm: [Section Info](https://github.com/ITPNYU/ICM-2013/blob/master/sections/Mimi-Wed-2013.md), [Section Homework](https://github.com/ITPNYU/ICM-2013/wiki/Homework-Mimi-Wednesday)
 
 Week 1 -- Introduction and Drawing
 ----------------------------------
@@ -37,33 +35,25 @@ Week 1 -- Introduction and Drawing
     -[Sol Lewitt](http://www.ericdoeringer.com/ConArtRec/LeWitt/LeWitt.html)
 - Watch
     - Casey Reas [Eyeo 2012 talk](https://vimeo.com/45851523) on Chance Operations
-    - Stay tuned for link to tutorial videos
+    - [Video Lessons](http://icm.shiffman.net/) 0.0-2.1 duplicate what we will cover in class.  Watch 3.0-4.3 to preview next week's content.
 - Related Reading
     - Chapters 1-2 from [Learning Processing](http://www.learningprocessing.com).
     - Chapters 1-3 from [Getting Started with Processing](http://my.safaribooksonline.com/9781449379827?portal=oreilly&cid=orm-cat-readnow-9781449379827)
 - Downloading Processing
     - Download [Processing 2.0](http://www.processing.org/download/) 
 - Homework
-    - Sign up for the ITP ICM Google Group: https://groups.google.com/a/itp.nyu.edu/group/icm
+    - Sign up for the ITP ICM Google Group: https://groups.google.com/a/itp.nyu.edu/group/icm (also sign up for your section's group)
     - Create your own screen drawing: self-portrait, alien, monster, etc. Use only 2D primitive shapes – arc(), curve(), ellipse(), line(), point(), quad(), rect(), triangle() – and basic color functions – background(), colorMode(), fill(), noFill(), noStroke(), stroke().  Remember to use size() to specify the dimensions of your window.
-    - Post a link to the homework wiki: ClassWork/Homework-Shiffman-ICM-F12.  Instructions for how to do so are here: ClassWork/Homework-upload-instructions
-    - Examples: http://www.learningprocessing.com/examples/ -- take a look at Chapter 1 and 2 (3 if you are feeling ambitious).
+    - Post a link to your work on your section's wiki (see links above).  Follow the guidelines provided on the wiki.
+    - Examples: https://github.com/shiffman/LearningProcessing -- take a look at Chapter 1 and 2 (3 if you are feeling ambitious).
 
-Week 2 -- Animation
------------------------------
+Week 2 -- Animation && Interaction
+----------------------------------
 - The flow: code blocks, setup, draw, and events: http://www.learningprocessing.com/examples/chapter-3/
 - Variation: mouseX,mouseY
 - Variables: Declare, Initialize, Use: http://www.learningprocessing.com/examples/chapter-4/
 - Random
 - Transformations
-- Related Reading
-    - Chapters 3-4 from Learning Processing.
-    - Chapters 4-5 from [Getting Started with Processing](http://my.safaribooksonline.com/9781449379827?portal=oreilly&cid=orm-cat-readnow-9781449379827)
-- Homework
-    - Create a animated application. You can continue to elaborate on last week's assignment or you can design something new.  Use variables to change colors, grow and shrink your design, etc.  Play with mouseX and mouseY.  Start by working in pairs (according to your section's wiki).  We will allocate some time in class for this.  You can post together or break off and complete the assignment individually.  
-
-Week 3 -- Interaction
------------------------------
 - Conditionals: http://www.learningprocessing.com/examples/chapter-5/
     - If, else if, else
     - Boolean variables
@@ -80,15 +70,14 @@ Week 3 -- Interaction
     - [rectangle rollover demo](http://itp.nyu.edu/~ck987/week3/in_rect_demo/)
     - [Modulo demo](http://itp.nyu.edu/~ck987/week3/moduloDemo/)
 - Related Reading
-    - Chapters 5-6 from Learning Processing.
+    - Chapters 3-6 from Learning Processing.
     - Chapters 4-5 from [Getting Started with Processing](http://my.safaribooksonline.com/9781449379827?portal=oreilly&cid=orm-cat-readnow-9781449379827)
 - Supplemental Reading
     - ["Hackers and Painters"](http://www.paulgraham.com/hp.html) by Paul Graham
 - Homework
-    - In [Dropbox](https://www.dropbox.com/sh/7curz55xj5wgnpg/4gIRqHtABR) and on [Github](https://github.com/ITPNYU/ICM/tree/master/in-class-examples/week3/Traditional%20GUI) there are a set of examples for traditional GUI elements.  As an exercise, try making a rollover, button, or slider from scratch.  Compare your code to the examples.
-    - Moving beyond the exercise, can you invent new GUI elements beyond buttons, sliders, rollovers, etc.?   Use the new pairs according to your section's homework wiki.  Swap sketches and riff of of your partner's work.  You can post as a group or break off and complete the assignment individually.  
+    - TBA. Start by working in pairs (according to your section's wiki).  We will allocate some time in class for this.  You can post together or break off and complete the assignment individually.  
 
-Week 4 --  Functions & Objects: Part 1
+Week 3 -- Functions & Objects: Part 1
 -----------------------------
 - The Theory of Object Oriented Programming
 - Functions: http://www.learningprocessing.com/examples/chapter-7/
@@ -109,8 +98,8 @@ Week 4 --  Functions & Objects: Part 1
 - Homework
     - Re-organize the code of a previous assignment or example using functions and objects.  If you are inspired by the power of modularity, feel free to elaborate on the assignment.  Work individually or in pairs (no pairs will be assigned this week.)
 
-Week 5 -- Functions & Objects Part 2
------------------------------
+Week 4 -- Functions & Objects Part 2
+------------------------------------
 - Objects: http://www.learningprocessing.com/examples/chapter-8/
     - Principles and Theory (Encapsulation)
     - How-to
@@ -123,7 +112,7 @@ Week 5 -- Functions & Objects Part 2
     - Design a sketch in an object-oriented fashion.  Try to eliminate all code from the main tab (setup() and draw()) except for the core requirements (size(), background(), etc.) and calls to objects.
         - For example: Consider building a [particle system](http://en.wikipedia.org/wiki/Particle_system).  A particle system can be used to simulate: rain, snow, fireworks, explosions, smoke, etc.  For this week, you would create a Particle class to describe a single particle and try to get two particles on the screen using separate variables. (Then next week, after we learn arrays, you would visualize hundreds (or thousands) of particles on the screen.)
 
-Week 6 -- Repetition and Reproduction
+Week 5 -- Repetition and Reproduction
 -----------------------------
 - Review loops: http://www.learningprocessing.com/examples/chapter-6/
 - Arrays: http://www.learningprocessing.com/examples/chapter-9/
@@ -135,6 +124,13 @@ Week 6 -- Repetition and Reproduction
     - Chapter 10 from [Getting Started with Processing](http://my.safaribooksonline.com/9781449379827?portal=oreilly&cid=orm-cat-readnow-9781449379827)
 - Homework
     - Using arrays and loops, write a program that creates multiple instances of an object (feel free to use an object you developed previously or create something new). You can consider continuing the "particle system" thread and try modeling something like rain, snow, bubbles, etc. You can also look ahead to images and data and think about how an image is an "array of pixels" an a String is an "array of characters."
+
+Week 6 -- Vectors and Simulation
+--------------------------------
+  - [PVector tutorial](http://processing.org/tutorials/pvector/)
+  - [The Nature of Code](http://natureofcode.com/book/)
+  - [The Nature of Code Exampes](https://github.com/shiffman/The-Nature-of-Code-Examples)
+  - Homework: TBA
 
 Week 7 -- Pixels
 --------------------------------
@@ -235,9 +231,6 @@ Week 9 -- Bonus Topics (we will not do all of these in class but there will be a
     - Examples from Chris Kairalla
         - [Simple PGraphics Demo](http://itp.nyu.edu/~ck987/icm2012/week9/pgraphics/)
         - [PGraphics Grid](http://itp.nyu.edu/~ck987/icm2012/week9/pgraphics_grid/)
-- PVector: 
-    - [In-Class examples](https://github.com/ITPNYU/ICM/tree/master/in-class-examples/week11/PVectorExamples)
-    - [Nature of Code vector chapter](http://natureofcode.com/book/chapter-1-vectors/)
 - ArrayList
     - [History of mouse movements](https://github.com/ITPNYU/ICM/blob/master/in-class-examples/week11/PVectorExamples/TrailPVectorArrayList/TrailPVectorArrayList.pde)
     - [Java Documentation](http://docs.oracle.com/javase/6/docs/api/java/util/ArrayList.html)

@@ -8,7 +8,8 @@ Introduction to Computational Media Syllabus
 
 Section Pages and Homework Wikis
 --------------------------------
-- Shiffman, Tuesday, 12:05-3:00pm:  [Section Info](https://github.com/ITPNYU/ICM-2013/blob/master/sections/Shiffman-Tues-2013.md), [Section Homework](https://github.com/ITPNYU/ICM-2013/wiki/Homework-Shiffman-Tuesday)
+
+- Shiffman, Tuesday, 12:05-3:00pm: This section is for students with prior programming experience and has a different syllabus.  See: 
 - Shiffman, Wednesday, 12:05-3:00pm:  [Section Info](https://github.com/ITPNYU/ICM-2013/blob/master/sections/Shiffman-Wed-2013.md), [Section Homework](https://github.com/ITPNYU/ICM-2013/wiki/Homework-Shiffman-Wednesday)
 - Danny, Wednesday, 9:05-12:00 and 3:05-6:00:  [Section Info](https://github.com/ITPNYU/ICM-2013/blob/master/sections/Rozin-Wed-2013.md), [Morning Section Homework](https://github.com/ITPNYU/ICM-2013/wiki/Homework-Rozin-Wed_Morning), [Afternoon Section Homework](https://github.com/ITPNYU/ICM-2013/wiki/Homework-Rozin-Wed-afternoon)
 - Dano, Tuesday, 12:05-3:00pm:  [Section Info](https://github.com/ITPNYU/ICM-2013/blob/master/sections/Dano-Tues-2013.md), [Section Homework](https://github.com/ITPNYU/ICM-2013/wiki/Homework-Dano-Tuesday)
@@ -60,7 +61,7 @@ Week 2 -- Animation
     - Chapters 3-4 from Learning Processing.
     - Chapters 4-5 from [Getting Started with Processing](http://my.safaribooksonline.com/9781449379827?portal=oreilly&cid=orm-cat-readnow-9781449379827)
 - Homework
-    - Create a animated application. You can continue to elaborate on last week's assignment or you can design something new.  Use variables to change colors, grow and shrink your design, etc.  Play with mouseX and mouseY.  Start by working in pairs (according to your section's wiki).  We will allocate some time in class for this.  You can post together or break off and complete the assignment individually.  
+    - Create a animated application.  Start over from scratch and build something with a very simple design.  Focus on the logic of variables and avoid using hard-coded values.  Play with mouseX and mouseY.  Start by working in pairs (according to your section's wiki).  We will allocate some time in class for this.  You can post together or break off and complete the assignment individually.  
 
 Week 3 -- Interaction
 -----------------------------
