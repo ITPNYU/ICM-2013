@@ -10,7 +10,7 @@ Section Pages and Homework Wikis
 --------------------------------
 - Shiffman, Tuesday, 12:05-3:00pm:  [Section Info](https://github.com/ITPNYU/ICM-2013/blob/master/sections/Shiffman-Tues-2013.md), [Section Homework](https://github.com/ITPNYU/ICM-2013/wiki/Homework-Shiffman-Tuesday)
 - Shiffman, Wednesday. . . 
-- Danny, Wednesday, 9:05-3:00pm:  [Section Info](https://github.com/ITPNYU/ICM-2013/blob/master/sections/Rozin-Wed-Morning-2013.md), [Morning Section Homework](https://github.com/ITPNYU/ICM-2013/wiki/Homework-Rozin-Wed_Morning), [Afternoon Section Homework](https://github.com/ITPNYU/ICM-2013/wiki/Homework-Rozin-Wed_Afternoon)
+- Danny, Wednesday, 9:05-3:00pm:  [Section Info](https://github.com/ITPNYU/ICM-2013/blob/master/sections/Rozin-Wed-Morning-2013.md), [Morning Section Homework](https://github.com/ITPNYU/ICM-2013/wiki/Homework-Rozin-Wed_Morning), [Afternoon Section Homework](https://github.com/ITPNYU/ICM-2013/wiki/Homework-Rozin-Wed_afternoon)
 - Dano, Tuesday, 12:05-3:00pm:  [Section Info](https://github.com/ITPNYU/ICM-2013/blob/master/sections/Dano-Tues-2013.md), [Section Homework](https://github.com/ITPNYU/ICM-2013/wiki/Homework-Dano-Tuesday)
 - Dano, Wednesday, 12:05-3:00pm:  [Section Info](https://github.com/ITPNYU/ICM-2013/blob/master/sections/Dano-Wed-2013.md), [Section Homework](https://github.com/ITPNYU/ICM-2013/wiki/Homework-Dano-Wednesday)
 
