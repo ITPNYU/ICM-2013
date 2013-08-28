@@ -30,6 +30,14 @@ Requirements
     - Final Project (25%)
     - Personal progress; how much did you advance from your initial state in this class.
 
+Resources
+---------
+- [Download Processing](https://processing.org/download/?processing)
+- [Processing Reference](http://processing.org/reference/)
+- [Processing JS](http://processingjs.org/)
+- [Learning Processing](http://www.learningprocessing.com/)
+- [VIDEOS](http://icm.shiffman.net/)
+
 Class Dates
 -----------
 - Week 1: September 4
