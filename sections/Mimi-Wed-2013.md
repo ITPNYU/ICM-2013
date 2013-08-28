@@ -37,6 +37,7 @@ Resources
 - [Processing Reference](http://processing.org/reference/)
 - [Processing JS](http://processingjs.org/)
 - [Learning Processing](http://www.learningprocessing.com/)
+- [Learning Processing Repo](https://github.com/shiffman/LearningProcessing)
 - [Residents](http://itp.nyu.edu/residents/)
 
 Class Dates
