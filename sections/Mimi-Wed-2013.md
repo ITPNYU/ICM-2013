@@ -32,11 +32,12 @@ Requirements
 
 Resources
 ---------
+- [VIDEOS](http://icm.shiffman.net/)
 - [Download Processing](https://processing.org/download/?processing)
 - [Processing Reference](http://processing.org/reference/)
 - [Processing JS](http://processingjs.org/)
 - [Learning Processing](http://www.learningprocessing.com/)
-- [VIDEOS](http://icm.shiffman.net/)
+- [Residents](http://itp.nyu.edu/residents/)
 
 Class Dates
 -----------
