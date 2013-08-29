@@ -35,7 +35,7 @@ Requirements
 Class Dates
 -----------
 - Week 1: Friday August 30 
-    - [Slide show from class](https://docs.google.com/presentation/d/1625s7b1eRyQE44NMxdRlbX5_t0OCbELBaUqFdElq9js)
+    - [Slides from class](https://docs.google.com/presentation/d/1625s7b1eRyQE44NMxdRlbX5_t0OCbELBaUqFdElq9js)
     - [Coordinate system drawing sheet](http://itp.nyu.edu/~dr99/ICM/coords_sheet.pdf)
 - Wednesday September 4 No class!
 - Week 2: September 11
