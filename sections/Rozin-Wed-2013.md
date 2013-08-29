@@ -35,6 +35,7 @@ Requirements
 Class Dates
 -----------
 - Week 1: Friday August 30 
+- - [Slide show from class](https://docs.google.com/presentation/d/1625s7b1eRyQE44NMxdRlbX5_t0OCbELBaUqFdElq9js)
 - Wednesday September 4 No class!
 - Week 2: September 11
 - Week 3: September 18
