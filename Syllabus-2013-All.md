@@ -33,9 +33,9 @@ Week 1 -- Introduction and Drawing
 - Running your application
 - Exporting: application, android, javascript
 - [Abstract Modern Art](http://www.abstractmodernart.com/) for inspiration
-    -[Piet Mondrian](http://images.google.com/images?q=mondrian)
-    -[Ron Gang](http://www.iarc.org/~4x1mk/nonfig1.htm)
-    -[Sol Lewitt](http://www.ericdoeringer.com/ConArtRec/LeWitt/LeWitt.html)
+    - [Piet Mondrian](http://images.google.com/images?q=mondrian)
+    - [Ron Gang](http://www.iarc.org/~4x1mk/nonfig1.htm)
+    - [Sol Lewitt](http://www.ericdoeringer.com/ConArtRec/LeWitt/LeWitt.html)
 - Watch
     - Casey Reas [Eyeo 2012 talk](https://vimeo.com/45851523) on Chance Operations
     - [Video Lessons](http://icm.shiffman.net/) 0.0-2.1 duplicate what we will cover in class.  Watch 3.0-4.3 to preview next week's content.
