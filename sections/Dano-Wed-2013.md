@@ -32,15 +32,15 @@ Requirements
 
 Class Dates
 -----------
-- Week 1: September 3
-- Week 2: September 10
-- Week 3: September 17
-- Week 4: September 24
-- Week 5: October 1
-- Week 6: October 8
-- Week 7: October 22
-- Week 8: October 29
-- Week 9: November 5
-- Week 10: November 12
-- Week 11: November 19
-- Week 12: November 26
+-September 4
+-September 11
+-September 18
+-September 25
+-October 2
+-October 9
+-October 16
+-October 23
+-October 30
+-November 6
+-November 13
+-November 20
