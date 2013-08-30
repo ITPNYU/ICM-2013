@@ -8,11 +8,11 @@ Syllabus
 
 Mailing List
 ------------
--  [Dano Tues ICM google group](https://groups.google.com/a/itp.nyu.edu/group/icm-dano) -- this will be used for administrative announcements for our section only.
+-  [Dano Tues ICM google group](https://groups.google.com/a/itp.nyu.edu/group/icm-dano-wed) -- this will be used for administrative announcements for our section only.
 
 Homework
 --------
-- [Homework Wiki](https://github.com/ITPNYU/ICM-2013/wiki/Homework-Dano-Tuesday): This is where you post links to your weekly assignments
+- [Homework Wiki](https://github.com/ITPNYU/ICM-2013/wiki/Homework-Dano-Wednesday): This is where you post links to your weekly assignments
 
 Schedule / Contact
 ------------------
