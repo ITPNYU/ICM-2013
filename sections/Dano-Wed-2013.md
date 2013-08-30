@@ -8,7 +8,7 @@ Syllabus
 
 Mailing List
 ------------
--  [Dano Tues ICM google group](https://groups.google.com/a/itp.nyu.edu/group/icm-dano-wed) -- this will be used for administrative announcements for our section only.
+-  [Dano Tues ICM google group](https://groups.google.com/a/nyu.edu/d/forum/icm-dano-f13-wed-group) -- this will be used for administrative announcements for our section only.
 
 Homework
 --------
