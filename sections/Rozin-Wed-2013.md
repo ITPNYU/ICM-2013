@@ -39,6 +39,7 @@ Class Dates
     - [Coordinate system drawing sheet](http://itp.nyu.edu/~dr99/ICM/coords_sheet.pdf)
     - [My website - smoothware.com](http:smoothware.com)
      - [Weave Mirror video](https://vimeo.com/7067089)
+     - [Snow Mirror](http://www.youtube.com/watch?v=jZhFRTeY8Cs)
 - Wednesday September 4 No class!
 - Week 2: September 11
 - Week 3: September 18
