@@ -30,17 +30,17 @@ Requirements
     - Final Project (25%)
     - Personal progress; how much did you advance from your initial state in this class.
 
-Class Dates
------------
--September 4
--September 11
--September 18
--September 25
--October 2
--October 9
--October 16
--October 23
--October 30
--November 6
--November 13
--November 20
+Class Dates (all Wednesdays)
+--------------------------
+- September 4
+- September 11
+- September 18
+- September 25
+- October 2
+- October 9
+- October 16
+- October 23
+- October 30
+- November 6
+- November 13
+- November 20
