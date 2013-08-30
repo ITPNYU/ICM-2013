@@ -40,6 +40,7 @@ Class Dates
     - [My website - smoothware.com](http:smoothware.com)
      - [Weave Mirror video](https://vimeo.com/7067089)
      - [Snow Mirror](http://www.youtube.com/watch?v=jZhFRTeY8Cs)
+     - [Mirrors Mirror](http://www.youtube.com/watch?v=tRDfO9K392E)
 - Wednesday September 4 No class!
 - Week 2: September 11
 - Week 3: September 18
