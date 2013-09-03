@@ -40,6 +40,7 @@ Week 1 -- Introduction and Drawing
 - [Breakout](https://www.dropbox.com/s/cicl0c6cwnui8id/gamemod_breakout_source_en.zip)
 - Homework
     - Sign up for the ITP ICM Google Group: https://groups.google.com/a/itp.nyu.edu/group/icm (also sign up for your section's group)
+    - Sign up for Tuesday google group [Shiffman ICM google group](https://groups.google.com/a/nyu.edu/group/icm-shiffman-1-group) -- this will be used for administrative announcements for our section only.
     - Create your own screen drawing: self-portrait, alien, monster, etc. Use only 2D primitive shapes – arc(), curve(), ellipse(), line(), point(), quad(), rect(), triangle() – and basic color functions – background(), colorMode(), fill(), noFill(), noStroke(), stroke().  Remember to use size() to specify the dimensions of your window.
     - Post a link to your work on your section's wiki (see links above).  Follow the guidelines provided on the wiki.
     - Examples: https://github.com/shiffman/LearningProcessing -- take a look at Chapter 1 and 2 (3 if you are feeling ambitious).
