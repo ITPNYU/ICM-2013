@@ -32,7 +32,7 @@ Requirements
 
 Class Dates
 -----------
-- Week 1: September 3
+- Week 1: September 3  [Notes](https://docs.google.com/presentation/d/1WZImBGx_1BUlhN9Ar-WLz0Nc-B1Dv15SrmVmcKp_m-w/edit?usp=sharing)
 - Week 2: September 10
 - Week 3: September 17
 - Week 4: September 24
