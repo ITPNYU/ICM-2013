@@ -41,6 +41,7 @@ Week 1 -- Introduction and Drawing
     - Chapters 1-3 from [Getting Started with Processing](http://my.safaribooksonline.com/9781449379827?portal=oreilly&cid=orm-cat-readnow-9781449379827)
 - Downloading Processing
     - Download [Processing 2.0](http://www.processing.org/download/) 
+- [Breakout](https://www.dropbox.com/s/cicl0c6cwnui8id/gamemod_breakout_source_en.zip)
 - Homework
     - Sign up for the ITP ICM Google Group: https://groups.google.com/a/itp.nyu.edu/group/icm (also sign up for your section's group)
     - Create your own screen drawing: self-portrait, alien, monster, etc. Use only 2D primitive shapes – arc(), curve(), ellipse(), line(), point(), quad(), rect(), triangle() – and basic color functions – background(), colorMode(), fill(), noFill(), noStroke(), stroke().  Remember to use size() to specify the dimensions of your window.
