@@ -8,7 +8,8 @@ Syllabus
 
 Mailing List
 ------------
--  [Mimi ICM google group](https://groups.google.com/a/itp.nyu.edu/group/icm-mimi) -- this will be used for administrative announcements for our section only.
+- [Mimi ICM google group](https://groups.google.com/a/itp.nyu.edu/group/icm-mimi) -- this will be used for administrative announcements for our section only.
+- [Main ICM Google Group](https://groups.google.com/a/itp.nyu.edu/group/icm) -- this will be used for discussion and questions related to the course content.
 
 Homework
 --------
