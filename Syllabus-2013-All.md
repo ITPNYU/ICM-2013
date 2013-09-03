@@ -9,7 +9,7 @@ Introduction to Computational Media Syllabus
 Section Pages and Homework Wikis
 --------------------------------
 
-- Shiffman, Tuesday, 12:05-3:00pm: This section is for students with prior programming experience and has a different syllabus.  See: 
+- Shiffman, Tuesday, 12:05-3:00pm: This section is for students with prior programming experience and has a different syllabus.  See [Tuesday Shiffman Syllabus](https://github.com/ITPNYU/ICM-2013/blob/master/Syllabus-2013-Shiffman-Tues.md)
 - Shiffman, Wednesday, 12:05-3:00pm:  [Section Info](https://github.com/ITPNYU/ICM-2013/blob/master/sections/Shiffman-Wed-2013.md), [Section Homework](https://github.com/ITPNYU/ICM-2013/wiki/Homework-Shiffman-Wednesday)
 - Danny, Wednesday, 9:05-12:00 and 3:05-6:00:  [Section Info](https://github.com/ITPNYU/ICM-2013/blob/master/sections/Rozin-Wed-2013.md), [Morning Section Homework](https://github.com/ITPNYU/ICM-2013/wiki/Homework-Rozin-Wed_Morning), [Afternoon Section Homework](https://github.com/ITPNYU/ICM-2013/wiki/Homework-Rozin-Wed-afternoon)
 - Dano, Tuesday, 12:05-3:00pm:  [Section Info](https://github.com/ITPNYU/ICM-2013/blob/master/sections/Dano-Tues-2013.md), [Section Homework](https://github.com/ITPNYU/ICM-2013/wiki/Homework-Dano-Tuesday)
@@ -46,7 +46,7 @@ Week 1 -- Introduction and Drawing
 - Downloading Processing
     - Download [Processing 2.0](http://www.processing.org/download/) 
 - Homework
-    - Sign up for the ITP ICM Google Group: https://groups.google.com/a/itp.nyu.edu/group/icm (also sign up for your section's group)
+    - Sign up for the [ITP ICM Google Group](https://groups.google.com/a/itp.nyu.edu/group/icm) (also sign up for your section's group)
     - Create your own screen drawing: self-portrait, alien, monster, etc. Use only 2D primitive shapes – arc(), curve(), ellipse(), line(), point(), quad(), rect(), triangle() – and basic color functions – background(), colorMode(), fill(), noFill(), noStroke(), stroke().  Remember to use size() to specify the dimensions of your window.
     - Sign up for a [Github Account](http://github.com).  You are not required to use github, but you will need an account to edit the wiki here.
     - Post a link to your work on your [section's wiki](https://github.com/ITPNYU/ICM-2013/wiki).  Follow the guidelines provided on the wiki.
