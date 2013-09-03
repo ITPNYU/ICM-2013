@@ -8,7 +8,7 @@ Syllabus
 
 Mailing List
 ------------
--  [Shiffman ICM google group](https://groups.google.com/a/nyu.edu/group/icm-shiffman-2-group -- this will be used for administrative announcements for our section only.
+-  [Shiffman ICM google group](https://groups.google.com/a/nyu.edu/group/icm-shiffman-2-group) -- this will be used for administrative announcements for our section only.
 
 Homework
 --------
