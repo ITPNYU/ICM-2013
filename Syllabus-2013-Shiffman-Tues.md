@@ -41,8 +41,8 @@ Week 1 -- Introduction and Drawing
 - Homework
     - Sign up for the ITP ICM Google Group: https://groups.google.com/a/itp.nyu.edu/group/icm (also sign up for your section's group)
     - Sign up for Tuesday google group [Shiffman ICM google group](https://groups.google.com/a/nyu.edu/group/icm-shiffman-1-group) -- this will be used for administrative announcements for our section only.
-    - Create your own screen drawing: self-portrait, alien, monster, etc. Use only 2D primitive shapes – arc(), curve(), ellipse(), line(), point(), quad(), rect(), triangle() – and basic color functions – background(), colorMode(), fill(), noFill(), noStroke(), stroke().  Remember to use size() to specify the dimensions of your window.
-    - Post a link to your work on your section's wiki (see links above).  Follow the guidelines provided on the wiki.
+    - Create your own screen drawing: self-portrait, alien, monster, etc. Use only 2D primitive shapes – arc(), curve(), ellipse(), line(), point(), quad(), rect(), triangle() – and basic color functions – background(), colorMode(), fill(), noFill(), noStroke(), stroke().  Remember to use size() to specify the dimensions of your window.  Feel free to use your prior programming experience using variables, loops, etc. where necessary.  But embrace the constraint of a static drawing for this week.
+    - Post a [link to your work on the wiki](https://github.com/ITPNYU/ICM-2013/wiki/Homework-Shiffman-Tuesday).  You'll have to sign up for a github account to edit.  Follow the guidelines provided on the wiki.
     - Examples: https://github.com/shiffman/LearningProcessing -- take a look at Chapter 1 and 2 (3 if you are feeling ambitious).
 
 Week 2 -- Animation && Interaction
