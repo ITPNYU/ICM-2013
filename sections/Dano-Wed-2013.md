@@ -33,7 +33,7 @@ Requirements
 
 Class Dates (all Wednesdays)
 --------------------------
-- September 4
+- September 4 [Notes](https://docs.google.com/presentation/d/1WZImBGx_1BUlhN9Ar-WLz0Nc-B1Dv15SrmVmcKp_m-w/edit?usp=sharing)
 - September 11
 - September 18
 - September 25
