@@ -27,9 +27,9 @@ Week 1 -- Introduction and Drawing
 - Drawing with numbers
 - Processing's screen coordinates
 - Processing's drawing and color functions
-    -[rect() and rectMode() demo](http://itp.nyu.edu/~ck987/rectDemo/)
-    -[ellipse() and ellipseMode() demo](http://itp.nyu.edu/~ck987/ellipseDemo/)
-    -[fill() greyscale and color demo](http://itp.nyu.edu/~ck987/colorDemo/)
+    - [rect() and rectMode() demo](http://itp.nyu.edu/~ck987/rectDemo/)
+    - [ellipse() and ellipseMode() demo](http://itp.nyu.edu/~ck987/ellipseDemo/)
+    - [fill() greyscale and color demo](http://itp.nyu.edu/~ck987/colorDemo/)
 - [Processing reference](http://processing.org/reference)
 - Running your application
 - Exporting: application, android, javascript
