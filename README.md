@@ -29,10 +29,10 @@ Videos
 ------
 - http://icm.shiffman.net/
 
-Textbook 
+Books 
 --------
 - [Learning Processing](http://www.learningprocessing.com/) You can also read a copy [on reserve at the NYU library](http://library.nyu.edu/services/reserves.html).
-- [Getting Started With Processing](http://my.safaribooksonline.com/9781449379827?portal=oreilly&cid=orm-cat-readnow-9781449379827) by Reas/Fry (available via O'Reilly via Safari / NYU Library)
+- [Getting Started With Processing](http://my.safaribooksonline.com/9781449379827?portal=oreilly&cid=orm-cat-readnow-9781449379827) by Reas/Fry
 - Also: [Processing: A Programming Handbook for Visual Designers and Artists](http://www.amazon.com/gp/product/0262182629?ie=UTF8&tag=processing09-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0262182629) by Reas/Fry
 - All Processing books: http://processing.org/learning/books/index.html
 
