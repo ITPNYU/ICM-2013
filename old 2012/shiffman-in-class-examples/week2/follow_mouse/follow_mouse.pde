@@ -1,5 +1,5 @@
 
-int x;
+float x;
 
 void setup() {
   size(320, 240);
