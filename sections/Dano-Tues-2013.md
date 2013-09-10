@@ -82,7 +82,7 @@ void mousePressed(){
 void keyPressed(){
   direction = -direction;
 }
-
+------------
 - Week 3: September 17
 - Week 4: September 24
 - Week 5: October 1
