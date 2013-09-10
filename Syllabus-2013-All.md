@@ -78,7 +78,7 @@ Week 3 -- Interaction
     - while
     - for
 - Modulo
-- Examples from Chris Kairalla
+- Additional examples from Chris Kairalla
     - [more complicated mouse draw](http://itp.nyu.edu/~ck987/week2/mouseDraw/)
     - [bouncing ball demo](http://itp.nyu.edu/~ck987/icm2011/week2/ballbounce/)
     - [conditional expression demo](http://itp.nyu.edu/~ck987/week2/quadRoll/)
@@ -90,7 +90,7 @@ Week 3 -- Interaction
 - Supplemental Reading
     - ["Hackers and Painters"](http://www.paulgraham.com/hp.html) by Paul Graham
 - Homework
-    - In [Dropbox](https://www.dropbox.com/sh/7curz55xj5wgnpg/4gIRqHtABR) and on [Github](https://github.com/ITPNYU/ICM/tree/master/in-class-examples/week3/Traditional%20GUI) there are a set of examples for traditional GUI elements.  As an exercise, try making a rollover, button, or slider from scratch.  Compare your code to the examples.
+    - On [Github](https://github.com/ITPNYU/ICM/tree/master/in-class-examples/week3/Traditional%20GUI) there are a set of examples for traditional GUI elements.  As an exercise, try making a rollover, button, or slider from scratch.  Compare your code to the examples.
     - Moving beyond the exercise, can you invent new GUI elements beyond buttons, sliders, rollovers, etc.?   Use the new pairs according to your section's homework wiki.  Swap sketches and riff of of your partner's work.  You can post as a group or break off and complete the assignment individually.  
 
 Week 4 --  Functions & Objects: Part 1
