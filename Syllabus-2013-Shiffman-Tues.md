@@ -79,7 +79,7 @@ Week 2 -- Animation && Interaction
     - [Commodore 64: 10 PRINT CHR$(205.5+RND(1)); : GOTO 10](http://www.youtube.com/watch?v=m9joBLOZVEo)
     - You can preview next week's functions and objects content with (videos coming soon!)
 - Homework: Choose one of the following or invent your own. Start by working in pairs according to the wiki.  We will allocate some time in class for this.  You can post together or break off and complete the assignment individually.  
-    - Create your own variation of 10PRINT based on the [examples provided here](https://forum.processing.org/topic/challenge-processing-variations-of-10-print-chr-205-5-rnd-1-goto-10).  There is also a [nice discussion on the Processing forum](https://forum.processing.org/topic/challenge-processing-variations-of-10-print-chr-205-5-rnd-1-goto-10)
+    - Create your own variation of 10PRINT based on the [examples provided here](https://github.com/ITPNYU/ICM-2013/tree/master/examples/week3-exercises/10print).  There is also a [nice discussion on the Processing forum](https://forum.processing.org/topic/challenge-processing-variations-of-10-print-chr-205-5-rnd-1-goto-10)
     - As an exercise, try making a rollover, button, or slider from scratch.  Compare your code to the [examples on github](https://github.com/ITPNYU/ICM-2013/tree/master/examples/week3-exercises/Traditional%20GUI).  Moving beyond the exercise, can you invent new GUI elements beyond buttons, sliders, rollovers, etc.?  
     - Consider tying the above two together and have a GUI control your 10PRINT visualization.
 
