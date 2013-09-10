@@ -8,7 +8,6 @@ Syllabus
 
 Mailing List
 ------------
-- [Rozin ICM google group](https://groups.google.com/a/nyu.edu/forum/#!forum/icm-rozin-group) -- this will be used for administrative announcements for our section only.
 - [Main ICM Google Group](https://groups.google.com/a/itp.nyu.edu/group/icm) -- this will be used for discussion and questions related to the course content.
 
 Homework
@@ -44,6 +43,7 @@ Class Dates
      - [Mirrors Mirror](http://www.youtube.com/watch?v=tRDfO9K392E)
 - Wednesday September 4 No class!
 - Week 2: September 11
+    - [Slides from class] (https://docs.google.com/a/nyu.edu/presentation/d/1kBbqHpAWHFVHfTetObZ2CEd2OwlUL6AufV0EJtrr7Ws/edit#slide=id.g238ecdcb_2_127)
 - Week 3: September 18
 - Week 4: September 25
 - Week 5: October 2

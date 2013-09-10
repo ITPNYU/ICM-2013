@@ -57,13 +57,13 @@ Week 2 -- Animation
 - The flow: code blocks, setup, draw, and events: https://github.com/shiffman/LearningProcessing/tree/master/chp03_flow
 - Variation: mouseX,mouseY
 - Variables: Declare, Initialize, Use: https://github.com/shiffman/LearningProcessing/tree/master/chp04_variables
-- Random
-- Transformations
-- map() 
-- lerp()
+- [random()](http://processing.org/reference/random_.html)
+- [map()](http://processing.org/reference/map_.html) 
 - Related Reading
     - Chapters 3-4 from Learning Processing.
     - Chapters 4-5 from [Getting Started with Processing](http://my.safaribooksonline.com/9781449379827?portal=oreilly&cid=orm-cat-readnow-9781449379827)
+- Watch (previews next week's content)
+    -  [Videos 5.0-6.6](http://icm.shiffman.net/5.0/)
 - Homework
     - Create a animated application.  Start over from scratch and build something with a very simple design.  Focus on the logic of variables and avoid using hard-coded values.  Play with mouseX and mouseY.  Start by working in pairs (according to your section's wiki).  We will allocate some time in class for this.  You can post together or break off and complete the assignment individually.  
 
@@ -78,7 +78,7 @@ Week 3 -- Interaction
     - while
     - for
 - Modulo
-- Examples from Chris Kairalla
+- Additional examples from Chris Kairalla
     - [more complicated mouse draw](http://itp.nyu.edu/~ck987/week2/mouseDraw/)
     - [bouncing ball demo](http://itp.nyu.edu/~ck987/icm2011/week2/ballbounce/)
     - [conditional expression demo](http://itp.nyu.edu/~ck987/week2/quadRoll/)
@@ -90,7 +90,7 @@ Week 3 -- Interaction
 - Supplemental Reading
     - ["Hackers and Painters"](http://www.paulgraham.com/hp.html) by Paul Graham
 - Homework
-    - In [Dropbox](https://www.dropbox.com/sh/7curz55xj5wgnpg/4gIRqHtABR) and on [Github](https://github.com/ITPNYU/ICM/tree/master/in-class-examples/week3/Traditional%20GUI) there are a set of examples for traditional GUI elements.  As an exercise, try making a rollover, button, or slider from scratch.  Compare your code to the examples.
+    - On [Github](https://github.com/ITPNYU/ICM/tree/master/in-class-examples/week3/Traditional%20GUI) there are a set of examples for traditional GUI elements.  As an exercise, try making a rollover, button, or slider from scratch.  Compare your code to the examples.
     - Moving beyond the exercise, can you invent new GUI elements beyond buttons, sliders, rollovers, etc.?   Use the new pairs according to your section's homework wiki.  Swap sketches and riff of of your partner's work.  You can post as a group or break off and complete the assignment individually.  
 
 Week 4 --  Functions & Objects: Part 1
