@@ -35,6 +35,54 @@ Class Dates
 -----------
 - Week 1: September 3  [Notes](https://docs.google.com/presentation/d/1WZImBGx_1BUlhN9Ar-WLz0Nc-B1Dv15SrmVmcKp_m-w/edit?usp=sharing)
 - Week 2: September 10
+------------
+
+void setup(){
+  size(640,480);
+}
+
+void draw(){
+  println(mouseX + ", " + mouseY);
+}
+
+------------
+
+
+float dansXVariable ;
+float direction;
+
+void setup() {
+    size(640,480);
+   dansXVariable = width/2;
+   direction = -1;
+}
+
+
+void draw() {
+
+   background(127);
+  stroke(127);
+//  
+//  float x = random(width);
+//  float y = random(height);
+//  float w = random(width);
+//  float h = random(height);
+  
+  ellipse(dansXVariable,100,20,20);
+  dansXVariable = dansXVariable + direction;
+  println("My dear friend Dan, here is your direction vairable:" + direction);
+
+}
+
+void mousePressed(){
+  direction = -direction;
+  
+}
+
+void keyPressed(){
+  direction = -direction;
+}
+------------
 - Week 3: September 17
 - Week 4: September 24
 - Week 5: October 1
