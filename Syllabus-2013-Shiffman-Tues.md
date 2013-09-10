@@ -50,8 +50,8 @@ Week 2 -- Animation && Interaction
 - The flow: code blocks, setup, draw, and events: https://github.com/shiffman/LearningProcessing/tree/master/chp03_flow
 - Variation: mouseX,mouseY
 - Variables: Declare, Initialize, Use: https://github.com/shiffman/LearningProcessing/tree/master/chp04_variables
-- Random
-- Transformations
+- [random()](http://processing.org/reference/random_.html)
+- [transformations](http://processing.org/tutorials/transform2d/)
 - Conditionals: https://github.com/shiffman/LearningProcessing/tree/master/chp05_conditionals
     - If, else if, else
     - Boolean variables
@@ -60,9 +60,8 @@ Week 2 -- Animation && Interaction
 - Loops: http://www.learningprocessing.com/examples/chapter-6/
     - while
     - for
-- map() 
-- lerp()
-- Modulo
+- [map()](http://processing.org/reference/map_.html) 
+- [lerp()](https://github.com/ITPNYU/ICM-2013/tree/master/examples/LerpExample)
 - Additional examples from Chris Kairalla
     - [more complicated mouse draw](http://itp.nyu.edu/~ck987/week2/mouseDraw/)
     - [bouncing ball demo](http://itp.nyu.edu/~ck987/icm2011/week2/ballbounce/)
