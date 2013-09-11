@@ -37,7 +37,7 @@ Resources
 - [Download Processing](https://processing.org/download/?processing)
 - [Processing Reference](http://processing.org/reference/)
 - [Processing JS](http://processingjs.org/)
-- [Learning Processing](http://www.learningprocessing.com/)
+- [Learning Processing](http://www.learningprocessing.com/) | [Access it online via NYU Library] (http://library.nyu.edu/)
 - [Learning Processing Repo](https://github.com/shiffman/LearningProcessing)
 - [Residents](http://itp.nyu.edu/residents/)
 
