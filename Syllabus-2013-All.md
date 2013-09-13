@@ -65,7 +65,9 @@ Week 2 -- Animation
 - Watch (previews next week's content)
     -  [Videos 5.0-6.6](http://icm.shiffman.net/5.0/)
 - Homework
-    - Create a animated application.  Start over from scratch and build something with a very simple design.  Focus on the logic of variables and avoid using hard-coded values.  Play with mouseX and mouseY.  Start by working in pairs (according to your section's wiki).  We will allocate some time in class for this.  You can post together or break off and complete the assignment individually.  
+    - Create a animated application. Start over from scratch and build something with a very simple design. Focus on the logic of variables and avoid using hard-coded values. Play with mouseX and mouseY.  Start by working in pairs (according to list below).   You can post together or break off and complete the assignment individually.  If you are stuck, here are some ideas.
+        - Experiment with motion using a single simple shape. Can you create a randomly jittering "nervous" square? A circle that spirals around the window?  How could user interaction affect the shape's motion?
+        - Use [random()](http://processing.org/reference/random_.html) to create a painting system.  [Here are some examples](https://github.com/ITPNYU/ICM-2013/tree/master/examples/week2-exercises/random%20paintings).  
 
 Week 3 -- Interaction
 -----------------------------
