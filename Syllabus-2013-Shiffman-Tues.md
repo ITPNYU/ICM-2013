@@ -75,7 +75,7 @@ Week 2 -- Animation && Interaction
     - ["Hackers and Painters"](http://www.paulgraham.com/hp.html) by Paul Graham
 - Watch
     - [Commodore 64: 10 PRINT CHR$(205.5+RND(1)); : GOTO 10](http://www.youtube.com/watch?v=m9joBLOZVEo)
-    - You can preview next week's functions and objects content by watching [videos 7.1 - 8.4](http://icm.shiffman.net/7.1/).
+    - You can preview next week's functions and objects content by watching [videos 7.0 - 8.3](http://icm.shiffman.net/7.0/).
 - Homework: In general this week, you should work with rule-based animation, motion, and interaction.  You can use the ideas below or invent your own assignment.  Start by working in pairs according to the wiki.  Can you divide an idea into two parts and combine those parts?  You can post together or break off and complete the assignment individually.
     - Experiment with motion using a single simple shape.  Create a bouncing ball or a randomly jittering "nervous" square.  Can you invent your own physics?
     - Create an algorithmic design with simple parameters.  A good model is 10PRINT based on the [examples provided here](https://github.com/ITPNYU/ICM-2013/tree/master/examples/week3-exercises/10print).  There is also a [nice discussion on the Processing forum](https://forum.processing.org/topic/challenge-processing-variations-of-10-print-chr-205-5-rnd-1-goto-10).  You can also read the [10 Print book online as a PDF](http://10print.org/).
