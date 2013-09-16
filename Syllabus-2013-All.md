@@ -76,7 +76,7 @@ Week 3 -- Interaction
     - Boolean variables
     - Relational Operators, Logical Operators
     - Buttons, rollovers, switches
-- Loops: http://www.learningprocessing.com/examples/chapter-6/
+- Loops: https://github.com/shiffman/LearningProcessing/tree/master/chp06_loops
     - while
     - for
 - Modulo
@@ -102,7 +102,7 @@ Week 3 -- Interaction
 Week 4 --  Functions & Objects: Part 1
 -----------------------------
 - The Theory of Object Oriented Programming
-- Functions: http://www.learningprocessing.com/examples/chapter-7/
+- Functions: https://github.com/shiffman/LearningProcessing/tree/master/chp07_functions
     - Re-usability
     - Modularity
     - Calling vs. Defining
