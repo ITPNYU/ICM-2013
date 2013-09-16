@@ -89,6 +89,8 @@ Week 3 -- Interaction
 - Related Reading
     - Chapters 5-6 from Learning Processing.
     - Chapters 4-5 from [Getting Started with Processing](http://my.safaribooksonline.com/9781449379827?portal=oreilly&cid=orm-cat-readnow-9781449379827)
+- Watch (previews next week's content)
+    -  [Videos 7.0-7.3](http://icm.shiffman.net/7.0/)
 - Supplemental Reading
     - ["Hackers and Painters"](http://www.paulgraham.com/hp.html) by Paul Graham
 - Homework: In general this week, you should work with rule-based animation, motion, and interaction.  You can use the ideas below or invent your own assignment.  Start by working in pairs according to the wiki.  Can you divide an idea into two parts and combine those parts?  Can you swap sketches and riff of of your partner's work? You can post together or break off and complete the assignment individually.
