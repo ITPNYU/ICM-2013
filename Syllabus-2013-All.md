@@ -91,9 +91,11 @@ Week 3 -- Interaction
     - Chapters 4-5 from [Getting Started with Processing](http://my.safaribooksonline.com/9781449379827?portal=oreilly&cid=orm-cat-readnow-9781449379827)
 - Supplemental Reading
     - ["Hackers and Painters"](http://www.paulgraham.com/hp.html) by Paul Graham
-- Homework
-    - On [Github](https://github.com/ITPNYU/ICM-2013/tree/master/examples/week3-exercises) there are a set of examples for traditional GUI elements.  As an exercise, try making a rollover, button, or slider from scratch.  Compare your code to the examples.
-    - Moving beyond the exercise, can you invent new GUI elements beyond buttons, sliders, rollovers, etc.?   Use the new pairs according to your section's homework wiki.  Swap sketches and riff of of your partner's work.  You can post as a group or break off and complete the assignment individually.  
+- Homework: In general this week, you should work with rule-based animation, motion, and interaction.  You can use the ideas below or invent your own assignment.  Start by working in pairs according to the wiki.  Can you divide an idea into two parts and combine those parts?  Can you swap sketches and riff of of your partner's work? You can post together or break off and complete the assignment individually.
+    - As an exercise, try making a rollover, button, or slider from scratch.  Compare your code to the [examples on github](https://github.com/ITPNYU/ICM-2013/tree/master/examples/week3-exercises/Traditional%20GUI).  Moving beyond the exercise, can you invent new GUI elements beyond buttons, sliders, rollovers, etc.?
+    - Create an algorithmic design with simple parameters.  A good model is 10PRINT based on the [examples provided here](https://github.com/ITPNYU/ICM-2013/tree/master/examples/week3-exercises/10print).  There is also a [nice discussion on the Processing forum](https://forum.processing.org/topic/challenge-processing-variations-of-10-print-chr-205-5-rnd-1-goto-10).  You can also read the [10 Print book online as a PDF](http://10print.org/).
+    - Consider tying the above two together and have a GUI control your 10PRINT visualization or motion sketch.
+    - Invent your own exercise related to animation and interaction.
 
 Week 4 --  Functions & Objects: Part 1
 -----------------------------
