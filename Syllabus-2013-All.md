@@ -65,7 +65,9 @@ Week 2 -- Animation
 - Watch (previews next week's content)
     -  [Videos 5.0-6.6](http://icm.shiffman.net/5.0/)
 - Homework
-    - Create a animated application.  Start over from scratch and build something with a very simple design.  Focus on the logic of variables and avoid using hard-coded values.  Play with mouseX and mouseY.  Start by working in pairs (according to your section's wiki).  We will allocate some time in class for this.  You can post together or break off and complete the assignment individually.  
+    - Create a animated application. Start over from scratch and build something with a very simple design. Focus on the logic of variables and avoid using hard-coded values. Play with mouseX and mouseY.  Start by working in pairs (according to list below).   You can post together or break off and complete the assignment individually.  If you are stuck, here are some ideas.
+        - Experiment with motion using a single simple shape. Can you create a randomly jittering "nervous" square? ([Here is a sample](https://github.com/ITPNYU/ICM-2013/blob/master/examples/week2-exercises/motion/nervous_square/nervous_square.pde)). A circle that spirals around the window?  How could user interaction affect the shape's motion?
+        - Use [random()](http://processing.org/reference/random_.html) to create a painting system.  [Here are some examples](https://github.com/ITPNYU/ICM-2013/tree/master/examples/week2-exercises/random%20paintings).  
 
 Week 3 -- Interaction
 -----------------------------
@@ -74,7 +76,7 @@ Week 3 -- Interaction
     - Boolean variables
     - Relational Operators, Logical Operators
     - Buttons, rollovers, switches
-- Loops: http://www.learningprocessing.com/examples/chapter-6/
+- Loops: https://github.com/shiffman/LearningProcessing/tree/master/chp06_loops
     - while
     - for
 - Modulo
@@ -87,16 +89,20 @@ Week 3 -- Interaction
 - Related Reading
     - Chapters 5-6 from Learning Processing.
     - Chapters 4-5 from [Getting Started with Processing](http://my.safaribooksonline.com/9781449379827?portal=oreilly&cid=orm-cat-readnow-9781449379827)
+- Watch (previews next week's content)
+    -  [Videos 7.0-7.3](http://icm.shiffman.net/7.0/)
 - Supplemental Reading
     - ["Hackers and Painters"](http://www.paulgraham.com/hp.html) by Paul Graham
-- Homework
-    - On [Github](https://github.com/ITPNYU/ICM/tree/master/in-class-examples/week3/Traditional%20GUI) there are a set of examples for traditional GUI elements.  As an exercise, try making a rollover, button, or slider from scratch.  Compare your code to the examples.
-    - Moving beyond the exercise, can you invent new GUI elements beyond buttons, sliders, rollovers, etc.?   Use the new pairs according to your section's homework wiki.  Swap sketches and riff of of your partner's work.  You can post as a group or break off and complete the assignment individually.  
+- Homework: In general this week, you should work with rule-based animation, motion, and interaction.  You can use the ideas below or invent your own assignment.  Start by working in pairs according to the wiki.  Can you divide an idea into two parts and combine those parts?  Can you swap sketches and riff of of your partner's work? You can post together or break off and complete the assignment individually.
+    - As an exercise, try making a rollover, button, or slider from scratch.  Compare your code to the [examples on github](https://github.com/ITPNYU/ICM-2013/tree/master/examples/week3-exercises/Traditional%20GUI).  Moving beyond the exercise, can you invent new GUI elements beyond buttons, sliders, rollovers, etc.?
+    - Create an algorithmic design with simple parameters.  A good model is 10PRINT based on the [examples provided here](https://github.com/ITPNYU/ICM-2013/tree/master/examples/week3-exercises/10print).  There is also a [nice discussion on the Processing forum](https://forum.processing.org/topic/challenge-processing-variations-of-10-print-chr-205-5-rnd-1-goto-10).  You can also read the [10 Print book online as a PDF](http://10print.org/).
+    - Consider tying the above two together and have a GUI control your 10PRINT visualization or motion sketch.
+    - Invent your own exercise related to animation and interaction.
 
 Week 4 --  Functions & Objects: Part 1
 -----------------------------
 - The Theory of Object Oriented Programming
-- Functions: http://www.learningprocessing.com/examples/chapter-7/
+- Functions: https://github.com/shiffman/LearningProcessing/tree/master/chp07_functions
     - Re-usability
     - Modularity
     - Calling vs. Defining
