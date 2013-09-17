@@ -61,7 +61,6 @@ Week 2 -- Animation && Interaction
     - while
     - for
 - [map()](http://processing.org/reference/map_.html) 
-- [lerp()](https://github.com/ITPNYU/ICM-2013/tree/master/examples/LerpExample)
 - Additional examples from Chris Kairalla
     - [more complicated mouse draw](http://itp.nyu.edu/~ck987/week2/mouseDraw/)
     - [bouncing ball demo](http://itp.nyu.edu/~ck987/icm2011/week2/ballbounce/)
@@ -83,10 +82,10 @@ Week 2 -- Animation && Interaction
     - Consider tying the above two together and have a GUI control your 10PRINT visualization or motion sketch.
     - Invent your own exercise related to animation and interaction.
 
-Week 3 -- Functions & Objects: Part 1
+Week 3 -- Object-Oriented Programming: Part 1
 -----------------------------
 - The Theory of Object Oriented Programming
-- Functions: http://www.learningprocessing.com/examples/chapter-7/
+- Functions: https://github.com/shiffman/LearningProcessing/tree/master/chp07_functions
     - Re-usability
     - Modularity
     - Calling vs. Defining
@@ -95,28 +94,33 @@ Week 3 -- Functions & Objects: Part 1
     - Recursion
         - [Simple Fractal](http://www.learningprocessing.com/examples/chapter-13/example-13-8-recursion/)
         - [Branching Fractal](http://www.learningprocessing.com/exercises/chapter-13/exercise-13-9-recursion/)
-    - Event functions
-        - [MousePressed & KeyPressed](http://www.learningprocessing.com/examples/chapter-3/example-3-5/)
-- Intro to Objects
-- Related Reading
-    - Chapters 7-8 from Learning Processing.
-    - Chapters 8-9 from [Getting Started with Processing](http://my.safaribooksonline.com/9781449379827?portal=oreilly&cid=orm-cat-readnow-9781449379827)
-- Homework
-    - Re-organize the code of a previous assignment or example using functions and objects.  If you are inspired by the power of modularity, feel free to elaborate on the assignment.  Work individually or in pairs (no pairs will be assigned this week.)
-
-Week 4 -- Functions & Objects Part 2
-------------------------------------
+        - [More on Fractals](http://natureofcode.com/book/chapter-8-fractals/)
 - Objects: http://www.learningprocessing.com/examples/chapter-8/
     - Principles and Theory (Encapsulation)
     - How-to
-    - The Constructor!
-    - Objects talking to objects
+- [lerp()](https://github.com/ITPNYU/ICM-2013/tree/master/examples/LerpExample)
+- [transformations](http://processing.org/tutorials/transform2d/)
 - Related Reading
     - Chapters 7-8 from Learning Processing.
     - Chapters 8-9 from [Getting Started with Processing](http://my.safaribooksonline.com/9781449379827?portal=oreilly&cid=orm-cat-readnow-9781449379827)
 - Homework
-    - Design a sketch in an object-oriented fashion.  Try to eliminate all code from the main tab (setup() and draw()) except for the core requirements (size(), background(), etc.) and calls to objects.
-        - For example: Consider building a [particle system](http://en.wikipedia.org/wiki/Particle_system).  A particle system can be used to simulate: rain, snow, fireworks, explosions, smoke, etc.  For this week, you would create a Particle class to describe a single particle and try to get two particles on the screen using separate variables. (Then next week, after we learn arrays, you would visualize hundreds (or thousands) of particles on the screen.)
+    - Re-organize the code of a previous assignment (or invent something new if you prefer) or example using object-oriented programming.  Try to eliminate all code from the main tab (setup() and draw()) except for the core requirements (size(), background(), etc.) and calls to objects. If you are stuck for an idea consider building a [particle system](http://en.wikipedia.org/wiki/Particle_system).  Particle system can be used to simulate rain, snow, fireworks, explosions, smoke, etc.  Create a Particle class to describe a single particle and try to get multiple particles on the screen using separate variables. (Later, with arrays, we'll look at how to visualize many particles on the screen.)
+    - E-mail the code for a class to your assigned partner on the wiki.  You'll get one from them too.  Try incorporating the class sent to you into your sketch.   Write some thoughts about this process on your blog -- Did anything not work?  Could you follow your partner's code?  Were comments helpful?  (If you are feeling saucy, you could try to use github for this collaboration.)
+
+
+Week 4 -- Object-Oriented Programming: Part 2
+------------------------------------
+- More OOP
+    - Constructor arguments
+    - Inheritance
+    - Objects talking to objects
+    - pass by copy, pass by reference
+    - using Processing classes (PFont, PImage, PVector, etc.)
+- Related Reading
+    - Chapters 7-8 from Learning Processing.
+    - Chapters 8-9 from [Getting Started with Processing](http://my.safaribooksonline.com/9781449379827?portal=oreilly&cid=orm-cat-readnow-9781449379827)
+- Homework
+
 
 Week 5 -- Repetition and Reproduction
 -----------------------------
