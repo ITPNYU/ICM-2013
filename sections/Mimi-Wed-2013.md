@@ -40,6 +40,7 @@ Resources
 - [Learning Processing](http://www.learningprocessing.com/) | [Access it online via NYU Library] (http://library.nyu.edu/)
 - [Learning Processing Repo](https://github.com/shiffman/LearningProcessing)
 - [Residents](http://itp.nyu.edu/residents/)
+- [Steps to Debug Your Code](https://github.com/ITPNYU/ICM-2013/wiki/Debugging)
 
 Class Dates
 -----------
