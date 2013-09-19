@@ -15,6 +15,5 @@ void draw() {
      background(random(255)); 
   }
   
-
 }
 
