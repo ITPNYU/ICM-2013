@@ -12,6 +12,7 @@ Introduction to Computational Media Syllabus
 Section Pages and Homework Wikis
 --------------------------------
 - Shiffman, Tuesday, 12:05-3:00pm:  [Section Info](https://github.com/ITPNYU/ICM-2013/blob/master/sections/Shiffman-Tues-2013.md), [Section Homework](https://github.com/ITPNYU/ICM-2013/wiki/Homework-Shiffman-Tuesday)
+- [Office Hours Signup](https://itp.nyu.edu/inwiki/Signup/Shiffman)
 
 Week 1 -- Introduction and Drawing
 ----------------------------------
