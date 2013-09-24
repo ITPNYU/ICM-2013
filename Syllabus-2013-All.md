@@ -89,7 +89,7 @@ Week 3 -- Interaction
 - Related Reading
     - Chapters 5-6 from Learning Processing.
     - Chapters 4-5 from [Getting Started with Processing](http://my.safaribooksonline.com/9781449379827?portal=oreilly&cid=orm-cat-readnow-9781449379827)
-- Watch (previews next week's content)
+- Watch (preview next week's content)
     -  [Videos 7.0-7.3](http://icm.shiffman.net/7.0/)
 - Supplemental Reading
     - ["Hackers and Painters"](http://www.paulgraham.com/hp.html) by Paul Graham
@@ -130,6 +130,8 @@ Week 5 -- Functions & Objects Part 2
 - Related Reading
     - Chapters 7-8 from Learning Processing.
     - Chapters 8-9 from [Getting Started with Processing](http://my.safaribooksonline.com/9781449379827?portal=oreilly&cid=orm-cat-readnow-9781449379827)
+- Watch (preview next week's content)
+    -  [Videos 8.0-8.3](http://icm.shiffman.net/8.0/)
 - Homework
     - Design a sketch in an object-oriented fashion.  Try to eliminate all code from the main tab (setup() and draw()) except for the core requirements (size(), background(), etc.) and calls to objects.
         - For example: Consider building a [particle system](http://en.wikipedia.org/wiki/Particle_system).  A particle system can be used to simulate: rain, snow, fireworks, explosions, smoke, etc.  For this week, you would create a Particle class to describe a single particle and try to get two particles on the screen using separate variables. (Then next week, after we learn arrays, you would visualize hundreds (or thousands) of particles on the screen.)
