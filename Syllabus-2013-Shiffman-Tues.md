@@ -118,7 +118,7 @@ Week 4 -- Object-Oriented Programming: Part 2
 - Related Reading
     - Chapters 7-8 from Learning Processing.
     - Chapters 8-9 from [Getting Started with Processing](http://my.safaribooksonline.com/9781449379827?portal=oreilly&cid=orm-cat-readnow-9781449379827)
-- Homework: Continue your work from last week and build off of some of the new concepts from class today.  Here are some ideas.  Try picking one or two.
+- Homework: Continue your work from last week and build off of some of the new concepts from class today.  Feel free to continue to work in groups and exchange classes or on your own.   Following are some ideas.  Try picking one or two.
     - Can you vary multiple objects by passing in arguments to the constructor? 
     - Can you have two objects talk to each other?
     - Can you build a class that has other objects as its data?  Tree has branches, branches have fruit, etc.
