@@ -47,6 +47,7 @@ Class Dates
 - Week 3: September 18
     - [Slides from class] ( https://docs.google.com/a/nyu.edu/presentation/d/161m_9JdksHb-S3wfTCAVOWMliY7m_RrxAV9zV8mkUcU/edit#slide=id.g2e24ba04_2_83)
 - Week 4: September 25
+    - [slides from class] (https://docs.google.com/a/nyu.edu/presentation/d/1T8datPOS_RVG7LrTV8DClDbmfR_kYAwukSnnkjiOfRA/edit#slide=id.g2e49a6a3_2_153)
 - Week 5: October 2
 - Week 6: October 9
 - Week 7: October 16
