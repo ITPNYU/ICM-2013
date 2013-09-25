@@ -120,7 +120,7 @@ Week 4 --  Functions & Objects: Part 1
     - Chapters 7-8 from Learning Processing.
     - Chapters 8-9 from [Getting Started with Processing](http://my.safaribooksonline.com/9781449379827?portal=oreilly&cid=orm-cat-readnow-9781449379827)
 - Homework
-    - Re-organize the code of a previous assignment or example using functions and objects.  If you are inspired by the power of modularity, feel free to elaborate on the assignment.  Work individually or in pairs (no pairs will be assigned this week.)
+    - Re-organize the code of a previous assignment or example using functions.  If you are inspired by the power of modularity, feel free to elaborate on the assignment.  Work individually or in pairs (no pairs will be assigned this week.)
 
 Week 5 -- Functions & Objects Part 2
 -----------------------------
