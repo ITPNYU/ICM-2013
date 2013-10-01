@@ -129,8 +129,8 @@ Week 4 -- Object-Oriented Programming: Part 2
 
 Week 5 -- Repetition and Reproduction
 -----------------------------
-- Review loops: http://www.learningprocessing.com/examples/chapter-6/
-- Arrays: http://www.learningprocessing.com/examples/chapter-9/
+- Review loops: https://github.com/shiffman/LearningProcessing/tree/master/chp06_loops
+- Arrays: https://github.com/shiffman/LearningProcessing/tree/master/chp09_arrays
 - A String is like an array of characters: http://processing.org/learning/text/
 - An image is like an array of pixels: http://processing.org/learning/pixels/
 - What is an ArrayList?
