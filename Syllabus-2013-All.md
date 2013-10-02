@@ -124,7 +124,7 @@ Week 4 --  Functions & Objects: Part 1
 
 Week 5 -- Functions & Objects Part 2
 -----------------------------
-- Objects: http://www.learningprocessing.com/examples/chapter-8/
+- Objects: https://github.com/shiffman/LearningProcessing/tree/master/chp08_objects
     - Principles and Theory (Encapsulation)
     - How-to
     - The Constructor!
@@ -133,10 +133,11 @@ Week 5 -- Functions & Objects Part 2
     - Chapters 7-8 from Learning Processing.
     - Chapters 8-9 from [Getting Started with Processing](http://my.safaribooksonline.com/9781449379827?portal=oreilly&cid=orm-cat-readnow-9781449379827)
 - Watch (preview next week's content)
-    -  [Videos 8.0-8.3](http://icm.shiffman.net/8.0/)
+    -  [Videos 9.0-9.4](http://icm.shiffman.net/9.0/)
 - Homework
     - Design a sketch in an object-oriented fashion.  Try to eliminate all code from the main tab (setup() and draw()) except for the core requirements (size(), background(), etc.) and calls to objects.
         - For example: Consider building a [particle system](http://en.wikipedia.org/wiki/Particle_system).  A particle system can be used to simulate: rain, snow, fireworks, explosions, smoke, etc.  For this week, you would create a Particle class to describe a single particle and try to get two particles on the screen using separate variables. (Then next week, after we learn arrays, you would visualize hundreds (or thousands) of particles on the screen.)
+    - E-mail the code for a class to your assigned partner on the wiki.  You'll get one from them too.  Try incorporating the class sent to you into your sketch.   Write some thoughts about this process on your blog -- Did anything not work?  Could you follow your partner's code?  Were comments helpful?  (If you are feeling saucy, you could try to use github for this collaboration.)
 
 Week 6 -- Repetition and Reproduction
 -----------------------------
@@ -149,7 +150,12 @@ Week 6 -- Repetition and Reproduction
     - Chapters 6 and 9, from Learning Processing.
     - Chapter 10 from [Getting Started with Processing](http://my.safaribooksonline.com/9781449379827?portal=oreilly&cid=orm-cat-readnow-9781449379827)
 - Homework
-    - Using arrays and loops, write a program that creates multiple instances of an object (feel free to use an object you developed previously or create something new). You can consider continuing the "particle system" thread and try modeling something like rain, snow, bubbles, etc. You can also look ahead to images and data and think about how an image is an "array of pixels" an a String is an "array of characters."
+    - Using arrays and/or ArrayLists, write a program that creates multiple instances of an object (feel free to use an object you developed previously or create something new). Here are some additional ideas if you are stuck.
+        - Experiment with the resizable nature of ArrayLists.  Can you add objects one at a time?  Remove them after a certain amount of time or when they leave the screen?  Can objects from on ArrayList trigger the birth of other objects?
+        - Create an object that stores the history of its own path.  This might be a drawing program where you keep a history of mouse locations in an ArrayList or a shape that moves around the screen autonomously and draws its own trail.  Can you have an ArrayList of these objects (each of which tracks its own ArrayList?).
+        - A String is like an array of characters.  Can you create a sketch that plays with text by looping through the "array" inside a String.  See: [charAt()](http://processing.org/reference/String_charAt_.html)
+        - A PImage contains an array of pixels.  Experiment with image processing by looping through all the pixel colors of an image.  This [tutorial](http://processing.org/tutorials/pixels/) will help you get started.
+        - Create a system that involves a two dimensional grid.  Use a 2D array to store the data of this system.  This [tutorial](http://processing.org/tutorials/2darray/) will help you get started.
 
 Week 7 -- Pixels
 --------------------------------
