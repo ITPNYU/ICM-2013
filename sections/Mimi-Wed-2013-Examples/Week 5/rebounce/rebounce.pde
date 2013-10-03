@@ -14,7 +14,12 @@ float speed = 0;   // speed of square
 // Try changing this number to 2.0 and see what happens.
 float gravity = 0.1; 
 
+// Dampening effect on ySpeed
+// Everytime the rect bounces
+// it will lose 1/2 it's speed
 float dampening = .5;
+
+
 
 void setup() {
   size(640,360);
