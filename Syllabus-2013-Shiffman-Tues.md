@@ -142,7 +142,11 @@ Week 5 -- Repetition and Reproduction
 
 Week 6 -- Vectors and Simulation
 --------------------------------
-  - [PVector tutorial](http://processing.org/tutorials/pvector/)
+  - Programming motion with vectors
+      - [PVector tutorial](http://processing.org/tutorials/pvector/)
+  - Simple physics engine
+  - Physics libraries
+  - Steering behaviors and emergent phenomona
   - [The Nature of Code](http://natureofcode.com/book/)
   - [The Nature of Code Exampes](https://github.com/shiffman/The-Nature-of-Code-Examples)
   - Homework: TBA
