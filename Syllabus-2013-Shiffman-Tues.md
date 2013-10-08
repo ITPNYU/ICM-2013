@@ -154,6 +154,10 @@ Week 6 -- Vectors and Simulation
       - [Braitenberg Vehicles](http://books.google.com/books/about/Vehicles.html?id=7KkUAT_q_sQC)
       - [Craig Reynolds](http://www.red3d.com/cwr/steer/)
       - [Chapter 6: The Nature of Code](http://natureofcode.com/book/chapter-6-autonomous-agents/)
+  - Genetic Algorithms
+      - [http://boxcar2d.com/](BoxCar2D)
+      - [Evolved Virtual Creatures](http://www.karlsims.com/evolved-virtual-creatures.html)
+      - [Chapter 9: The Nature of Code](http://natureofcode.com/book/chapter-9-the-evolution-of-code/)
   - [All Nature of Code Videos](http://video.natureofcode.com/)
   - [All Nature of Code Examples](https://github.com/shiffman/The-Nature-of-Code-Examples)
   - Homework: TBA
