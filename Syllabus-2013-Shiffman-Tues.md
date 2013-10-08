@@ -145,10 +145,17 @@ Week 6 -- Vectors and Simulation
   - Programming motion with vectors
       - [PVector tutorial](http://processing.org/tutorials/pvector/)
   - Simple physics engine
+      - [Chapter 2: The Nature of Code](http://natureofcode.com/book/chapter-2-forces/)
   - Physics libraries
+      - [Chapter 5: The Nature of Code](http://natureofcode.com/book/chapter-5-physics-libraries/)
+      - [PBox2D](https://github.com/shiffman/PBox2D)
+      - [ToxicLibs VerletPhysics](http://toxiclibs.org/)
   - Steering behaviors and emergent phenomona
-  - [The Nature of Code](http://natureofcode.com/book/)
-  - [The Nature of Code Exampes](https://github.com/shiffman/The-Nature-of-Code-Examples)
+      - [Braitenberg Vehicles](http://books.google.com/books/about/Vehicles.html?id=7KkUAT_q_sQC)
+      - [Craig Reynolds](http://www.red3d.com/cwr/steer/)
+      - [Chapter 6: The Nature of Code](http://natureofcode.com/book/chapter-6-autonomous-agents/)
+  - [All Nature of Code Videos](http://video.natureofcode.com/)
+  - [All Nature of Code Examples](https://github.com/shiffman/The-Nature-of-Code-Examples)
   - Homework: TBA
 
 Week 7 -- Pixels
