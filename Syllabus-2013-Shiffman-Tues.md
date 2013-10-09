@@ -167,7 +167,7 @@ Week 6 -- Vectors and Simulation
         - Create a design for a creature.  Can you build a skeleton?  A body?  Appendages?  Antannae?  [Here is an example from an ITP thesis project](https://vimeo.com/11587690).  Taking inspiration from [Nokia Friends](https://vimeo.com/1472427), can you make a squishy skeleton using toxiclibs?
         - Can you invent rules for how objects move about the screen?  Keep them incredibly simple.  What if the objects interact with other objects or with each other?  What types of group behaviors or pattens emerge?  Take a look at [Casey Reas' Process Compendium](https://vimeo.com/22955812) for inspiration.
         - If you read through the exercises in [Nature of Code](http://natureofcode.com/book/) there are many more ideas.  I would suggest Chapter 2.
-    - Note that only the names in bold (1/3 of the class) on the wiki will present next week. Everyone else will either present the "video" or data" assignments in the following weeks. You should all complete both assignments, however, and of course you can present more if you have a question or something you really want to get feedback on. Feel free to switch with each other or e-mail me if you would like to switch.
+    - Note that only the names in bold (1/3 of the class) on the wiki will present next week. Everyone else will either present the "video" or data" assignments in the following weeks. You should all complete all assignments, however, and of course you can present more if you have a question or something you really want to get feedback on. Feel free to switch with each other or e-mail me if you would like to switch.
 
 Week 7 -- Pixels
 --------------------------------
