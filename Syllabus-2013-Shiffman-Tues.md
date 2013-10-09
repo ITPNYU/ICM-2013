@@ -149,6 +149,7 @@ Week 6 -- Vectors and Simulation
   - Physics libraries
       - [Chapter 5: The Nature of Code](http://natureofcode.com/book/chapter-5-physics-libraries/)
       - [PBox2D](https://github.com/shiffman/PBox2D)
+      - [http://www.ricardmarxer.com/fisica/](Fisica)
       - [ToxicLibs VerletPhysics](http://toxiclibs.org/)
   - Steering behaviors and emergent phenomona
       - [Braitenberg Vehicles](http://books.google.com/books/about/Vehicles.html?id=7KkUAT_q_sQC)
@@ -160,8 +161,13 @@ Week 6 -- Vectors and Simulation
       - [Chapter 9: The Nature of Code](http://natureofcode.com/book/chapter-9-the-evolution-of-code/)
   - [All Nature of Code Videos](http://video.natureofcode.com/)
   - [All Nature of Code Examples](https://github.com/shiffman/The-Nature-of-Code-Examples)
-  - Homework: TBA
-
+  - Homework: Simulation Project
+    - Develop a project that uses the concepts outlined in class.  Here are some ideas.
+        - Take a Processing sketch you made earlier this semester that involves motion and re-write the sketch using PVector.
+        - Create a design for a creature.  Can you build a skeleton?  A body?  Appendages?  Antannae?  [Here is an example from an ITP thesis project](https://vimeo.com/11587690).  Taking inspiration from [Nokia Friends](https://vimeo.com/1472427), can you make a squishy skeleton using toxiclibs?
+        - Can you invent rules for how objects move about the screen?  Keep them incredibly simple.  What if the objects interact with other objects or with each other?  What types of group behaviors or pattens emerge?  Take a look at [Casey Reas' Process Compendium](https://vimeo.com/22955812) for inspiration.
+    - Note that only the names in bold (1/3 of the class) on the wiki will present next week. Everyone else will either present the "video" or data" assignments in the following weeks. You should all complete both assignments, however, and of course you can present more if you have a question or something you really want to get feedback on. Feel free to switch with each other or e-mail me if you would like to switch.
+    
 Week 7 -- Pixels
 --------------------------------
 - Images
@@ -184,11 +190,11 @@ Week 7 -- Pixels
 - Related reading:
     - Learning Processing, Chapters 15-16
 - Homework: Pixels Project
-    - Develop a project that uses images and pixels.  For this project you should document your work in a blog post in addition to creating the Processing sketch.  Note that examples that use Capture of Movie will not work in JavaScript mode.  You can present in class using your laptop or put your sketch into dropbox.  Here are some ideas:
+    - Develop a project that uses images and pixels.  For this project you should document your work in a blog post in addition to creating the Processing sketch.  You can present in class using your laptop or put your sketch into dropbox.  Here are some ideas:
         - Create a software mirror by designing an abstract drawing machine which you color according to pixels from live video.
         - Create a video player.  Consider combining your pcomp media controller assignment and build a Processing sketch that allows you to switch between videos, process pixels of a video, scrub a video, etc.
         - Use the kinect to track a skeleton.  Can you "puppeteer" an avatar/animation with the kinect?
-    - Note that only the names in bold (1/2 of the class) on the wiki will present next week. The second half will present the "data" assignment the following week. You should all complete both assignments, however, and of course you can present both weeks if you have a question or something you really want to get feedback on. Feel free to switch with each other or e-mail me if you would like to switch.
+    - Note that only the names in bold (1/3 of the class) on the wiki will present next week. Everyone else will either present the "video" or data" assignments in the following weeks. You should all complete both assignments, however, and of course you can present more if you have a question or something you really want to get feedback on. Feel free to switch with each other or e-mail me if you would like to switch.
 
 Week 8 -- Data
 -----------------------------
