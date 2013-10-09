@@ -141,13 +141,15 @@ Week 5 -- Functions & Objects Part 2
 
 Week 6 -- Repetition and Reproduction
 -----------------------------
-- Review loops: http://www.learningprocessing.com/examples/chapter-6/
-- Arrays: http://www.learningprocessing.com/examples/chapter-9/
+- Review loops: https://github.com/shiffman/LearningProcessing/tree/master/chp06_loops
+- Arrays: https://github.com/shiffman/LearningProcessing/tree/master/chp09_arrays
 - A String is like an array of characters: http://processing.org/learning/text/
 - An image is like an array of pixels: http://processing.org/learning/pixels/
 - What is an ArrayList?
+    - [ArrayList Reference](http://processing.org/reference/ArrayList.html), [JavaDoc](http://docs.oracle.com/javase/6/docs/api/java/util/ArrayList.html)
+    - [ArrayList example 1](https://github.com/shiffman/LearningProcessing/tree/master/chp23_java/example_23_2_ArrayList), [ArrayList Example 2](https://github.com/shiffman/LearningProcessing/tree/master/chp23_java/example_23_4_ArrayList_Rectangle)
 - Related Reading
-    - Chapters 6 and 9, from Learning Processing.
+    - Chapters 6 and 9, from Learning Processing, Chapter 23 for ArrayLists.
     - Chapter 10 from [Getting Started with Processing](http://my.safaribooksonline.com/9781449379827?portal=oreilly&cid=orm-cat-readnow-9781449379827)
 - Homework
     - Using arrays and/or ArrayLists, write a program that creates multiple instances of an object (feel free to use an object you developed previously or create something new). Here are some additional ideas if you are stuck.
