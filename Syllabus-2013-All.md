@@ -148,6 +148,7 @@ Week 6 -- Repetition and Reproduction
 - What is an ArrayList?
     - [ArrayList Reference](http://processing.org/reference/ArrayList.html), [JavaDoc](http://docs.oracle.com/javase/6/docs/api/java/util/ArrayList.html)
     - [ArrayList example 1](https://github.com/shiffman/LearningProcessing/tree/master/chp23_java/example_23_2_ArrayList), [ArrayList Example 2](https://github.com/shiffman/LearningProcessing/tree/master/chp23_java/example_23_4_ArrayList_Rectangle)
+    - [ArrayList video](http://video.natureofcode.com/4.2/)
 - Related Reading
     - Chapters 6 and 9, from Learning Processing, Chapter 23 for ArrayLists.
     - Chapter 10 from [Getting Started with Processing](http://my.safaribooksonline.com/9781449379827?portal=oreilly&cid=orm-cat-readnow-9781449379827)
