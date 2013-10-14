@@ -173,7 +173,11 @@ Week 7 -- Pixels
     - In class: https://github.com/ITPNYU/ICM/tree/master/in-class-examples/week7
     - Updated chapter 15: https://github.com/ITPNYU/ICM/tree/master/LearningProcessing/chp15
     - Updated chapter 16: https://github.com/ITPNYU/ICM/tree/master/LearningProcessing/chp16
-    - Dano's examples: https://github.com/ITPNYU/Comperas
+    - Dano's examples: 
+        -[Install SimpleOpenNI Library](https://code.google.com/p/simple-openni/wiki/Installation#OSX)
+        -[Kinect Track Closest](https://github.com/ITPNYU/Comperas/tree/master/KinectTrackClosest)
+        -[Kinect Track Body Parts](https://github.com/ITPNYU/Comperas/tree/master/KinectBodyPartLocations)
+        -[Assorted Camera Tracking Stuff](https://github.com/ITPNYU/Comperas)
 - Contributed Processing Libraries
     - Kinect: http://code.google.com/p/simple-openni/, http://www.shiffman.net/p5/kinect/ (possibly out of date)
     - OpenCV: http://www.mon-club-elec.fr/pmwiki_reference_lib_javacvPro/pmwiki.php -- new OpenCV library for Processing 2.0!  In french.  Also, see: http://codeanticode.wordpress.com/2011/11/21/opencv-2-in-processing/
