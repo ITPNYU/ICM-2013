@@ -173,7 +173,7 @@ Week 7 -- Pixels
     - In class: https://github.com/ITPNYU/ICM/tree/master/in-class-examples/week7
     - Updated chapter 15: https://github.com/ITPNYU/ICM/tree/master/LearningProcessing/chp15
     - Updated chapter 16: https://github.com/ITPNYU/ICM/tree/master/LearningProcessing/chp16
-    - Dano's examples: 
+    - Examples from Comperas Class: 
         - [Install SimpleOpenNI Library](https://code.google.com/p/simple-openni/wiki/Installation#OSX)
         - [Kinect Track Closest](https://github.com/ITPNYU/Comperas/tree/master/KinectTrackClosest)
         - [Kinect Track Body Parts](https://github.com/ITPNYU/Comperas/tree/master/KinectBodyPartLocations)
