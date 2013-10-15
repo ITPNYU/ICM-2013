@@ -170,7 +170,7 @@ Week 7 -- Pixels
     - Live video input
     - Movie playback
 - Examples:
-    - In class: https://github.com/ITPNYU/ICM/tree/master/in-class-examples/week7
+    - In class: https://github.com/ITPNYU/ICM-2013/tree/master/old%202012/shiffman-in-class-examples/week7
     - Updated chapter 15: https://github.com/ITPNYU/ICM/tree/master/LearningProcessing/chp15
     - Updated chapter 16: https://github.com/ITPNYU/ICM/tree/master/LearningProcessing/chp16
     - Examples from Comperas Class: 
