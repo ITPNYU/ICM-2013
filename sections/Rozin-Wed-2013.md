@@ -65,7 +65,7 @@ Class Dates
         - [Simple_adjust_image_brightness] (http://itp.nyu.edu/~dr99/ICM/icm_image/Simple_adjust_image_brightness.pde)
         - [Simple_adjust_video_brightness] (http://itp.nyu.edu/~dr99/ICM/icm_image/Simple_adjust_video_brightness.pde)
     - Painting:
-        - [Simple_paint_video] (http://itp.nyu.edu/~dr99/ICM/icm_image/Simple_paint_video.pde
+        - [Simple_paint_video] (http://itp.nyu.edu/~dr99/ICM/icm_image/Simple_paint_video.pde)
         - [Simple_paint_video_with_copy] (http://itp.nyu.edu/~dr99/ICM/icm_image/Simple_paint_video_with_copy.pde)
     - Video Tracking:
         - [Simple_track_video_brightness] (http://itp.nyu.edu/~dr99/ICM/icm_image/Simple_track_video_brightness.pde)
