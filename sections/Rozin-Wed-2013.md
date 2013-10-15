@@ -55,7 +55,7 @@ Class Dates
 - Week 7: October 16
 - Examples from class:
     - Loading images/video/camera:
-        -[Simple_load_URL](http://itp.nyu.edu/~dr99/ICM/icm_image/Simple_load_URL.pde)
+    - [Simple_load_URL] (http://itp.nyu.edu/~dr99/ICM/icm_image/Simple_load_URL.pde)
 ***[[http://itp.nyu.edu/~dr99/ICM/icm_image/Simple_play_video.pde|Simple_play_video]], [[http://itp.nyu.edu/~dr99/ICM/icm_image/Simple_play_video.zip|zip with movie included]]
 ***[[http://itp.nyu.edu/~dr99/ICM/icm_image/Simple_Video.pde|Simple Video]]
 **Setting Pixels:
