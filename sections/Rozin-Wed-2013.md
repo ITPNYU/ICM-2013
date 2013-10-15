@@ -56,6 +56,20 @@ Class Dates
 - Examples from class:
     - Loading images/video/camera:
     - [Simple_load_URL] (http://itp.nyu.edu/~dr99/ICM/icm_image/Simple_load_URL.pde)
+    - [Simple_play_video] (http://itp.nyu.edu/~dr99/ICM/icm_image/Simple_play_video.pde), [zip with movie included] (http://itp.nyu.edu/~dr99/ICM/icm_image/Simple_play_video.zip)
+    - [Simple Video] (http://itp.nyu.edu/~dr99/ICM/icm_image/Simple_Video.pde)
+    - Setting Pixels:
+    - [Simple_set_screen_pixels] (http://itp.nyu.edu/~dr99/ICM/icm_image/Simple_set_screen_pixels.pde)
+    - [Simple_set_screen_pixels_in_loop] (http://itp.nyu.edu/~dr99/ICM/icm_image/Simple_set_screen_pixels_in_loop.pde)
+    - Image Processing:
+    - [Simple_adjust_image_brightness] (http://itp.nyu.edu/~dr99/ICM/icm_image/Simple_adjust_image_brightness.pde)
+    - [Simple_adjust_video_brightness] (http://itp.nyu.edu/~dr99/ICM/icm_image/Simple_adjust_video_brightness.pde)
+    - Painting:
+    - [Simple_paint_video](http://itp.nyu.edu/~dr99/ICM/icm_image/Simple_paint_video.pde
+    - [Simple_paint_video_with_copy] (http://itp.nyu.edu/~dr99/ICM/icm_image/Simple_paint_video_with_copy.pde)
+    - Video Tracking:
+    - [Simple_track_video_brightness] (http://itp.nyu.edu/~dr99/ICM/icm_image/Simple_track_video_brightness.pde)
+    - [Simple_track_video_colors] (http://itp.nyu.edu/~dr99/ICM/icm_image/Simple_track_video_colors.pde)
 
 - Week 8: October 23
 - Week 9: October 30
