@@ -54,8 +54,8 @@ Class Dates
     - [Slides from class] (https://docs.google.com/a/nyu.edu/presentation/d/1T-ivUi706s9zlBvAiXvwRvpu8UDspoD4Foad3XgJOOQ/edit#slide=id.p)
 - Week 7: October 16
 - Examples from class:
--- Loading images/video/camera:
-***[Simple_load_URL](http://itp.nyu.edu/~dr99/ICM/icm_image/Simple_load_URL.pde)
+    - Loading images/video/camera:
+        -[Simple_load_URL](http://itp.nyu.edu/~dr99/ICM/icm_image/Simple_load_URL.pde)
 ***[[http://itp.nyu.edu/~dr99/ICM/icm_image/Simple_play_video.pde|Simple_play_video]], [[http://itp.nyu.edu/~dr99/ICM/icm_image/Simple_play_video.zip|zip with movie included]]
 ***[[http://itp.nyu.edu/~dr99/ICM/icm_image/Simple_Video.pde|Simple Video]]
 **Setting Pixels:
