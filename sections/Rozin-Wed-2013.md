@@ -53,6 +53,23 @@ Class Dates
 - Week 6: October 9
     - [Slides from class] (https://docs.google.com/a/nyu.edu/presentation/d/1T-ivUi706s9zlBvAiXvwRvpu8UDspoD4Foad3XgJOOQ/edit#slide=id.p)
 - Week 7: October 16
+- Examples from class:
+-- Loading images/video/camera:
+***[Simple_load_URL](http://itp.nyu.edu/~dr99/ICM/icm_image/Simple_load_URL.pde)
+***[[http://itp.nyu.edu/~dr99/ICM/icm_image/Simple_play_video.pde|Simple_play_video]], [[http://itp.nyu.edu/~dr99/ICM/icm_image/Simple_play_video.zip|zip with movie included]]
+***[[http://itp.nyu.edu/~dr99/ICM/icm_image/Simple_Video.pde|Simple Video]]
+**Setting Pixels:
+***[[http://itp.nyu.edu/~dr99/ICM/icm_image/Simple_set_screen_pixels.pde|Simple_set_screen_pixels]]
+***[[http://itp.nyu.edu/~dr99/ICM/icm_image/Simple_set_screen_pixels_in_loop.pde|Simple_set_screen_pixels_in_loop]]
+**Image Processing:
+***[[http://itp.nyu.edu/~dr99/ICM/icm_image/Simple_adjust_image_brightness.pde|Simple_adjust_image_brightness]]
+***[[http://itp.nyu.edu/~dr99/ICM/icm_image/Simple_adjust_video_brightness.pde|Simple_adjust_video_brightness]]
+**Painting:
+***[[http://itp.nyu.edu/~dr99/ICM/icm_image/Simple_paint_video.pde|Simple_paint_video]]
+***[[http://itp.nyu.edu/~dr99/ICM/icm_image/Simple_paint_video_with_copy.pde|Simple_paint_video_with_copy]]
+**Video Tracking:
+***[[http://itp.nyu.edu/~dr99/ICM/icm_image/Simple_track_video_brightness.pde|Simple_track_video_brightness]]
+***[[http://itp.nyu.edu/~dr99/ICM/icm_image/Simple_track_video_colors.pde|Simple_track_video_colors]]
 - Week 8: October 23
 - Week 9: October 30
 - Week 10: November 6
