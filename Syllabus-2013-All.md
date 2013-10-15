@@ -163,26 +163,28 @@ Week 6 -- Repetition and Reproduction
 Week 7 -- Pixels
 --------------------------------
 - Images
-    - Load and display
-    - Sequence
-    - Image Processing and the Pixel Array
+    - Load and display images
+    - Writing pixels to screen
+    - Reading image pixels, image processing: brightness, threshold, etc
+    - Chapter 15: https://github.com/shiffman/LearningProcessing/tree/master/chp15_images_pixels
+    - Exercise: make an interactive image processing filter
 - Video: 
-    - Live video input
-    - Movie playback
-- Examples:
-    - In class: https://github.com/ITPNYU/ICM-2013/tree/master/old%202012/shiffman-in-class-examples/week7
-    - Updated chapter 15: https://github.com/ITPNYU/ICM/tree/master/LearningProcessing/chp15
-    - Updated chapter 16: https://github.com/ITPNYU/ICM/tree/master/LearningProcessing/chp16
-    - Examples from Comperas Class: 
+    - Live video (Capture) and movie playback (Movie)
+    - Drawing shapes on screen colored by pixels
+    - Chapter 16: https://github.com/shiffman/LearningProcessing/tree/master/chp16_video
+    - Exercise: Make a mirror that paints your portrait
+- Computer vision:
+    - [Simple color tracking](https://github.com/shiffman/LearningProcessing/tree/master/chp16_video/example_16_11_ColorTrack)
+    - Face detection with [OpenCV for Processing](https://github.com/atduskgreg/opencv-processing/releases)
+    - Kinect
         - [Install SimpleOpenNI Library](https://code.google.com/p/simple-openni/wiki/Installation#OSX)
         - [Kinect Track Closest](https://github.com/ITPNYU/Comperas/tree/master/KinectTrackClosest)
         - [Kinect Track Body Parts](https://github.com/ITPNYU/Comperas/tree/master/KinectBodyPartLocations)
         - [Assorted Camera Tracking Stuff](https://github.com/ITPNYU/Comperas)
-- Contributed Processing Libraries
-    - Kinect: http://code.google.com/p/simple-openni/, http://www.shiffman.net/p5/kinect/ (possibly out of date)
-    - OpenCV: http://www.mon-club-elec.fr/pmwiki_reference_lib_javacvPro/pmwiki.php -- new OpenCV library for Processing 2.0!  In french.  Also, see: http://codeanticode.wordpress.com/2011/11/21/opencv-2-in-processing/
-    - BlobDetection: http://www.v3ga.net/processing/BlobDetection/
-    - CCV + TUIO: http://ccv.nuigroup.com/, http://www.tuio.org/?processing
+- Other libraries of note
+    - [BlobDetection](http://www.v3ga.net/processing/BlobDetection/)
+    - [OpenTSPS](http://opentsps.com/)
+    - [Community Core Vision](http://ccv.nuigroup.com/)
 - Related reading:
     - Learning Processing, Chapters 15-16
 - Homework: Pixels Project
