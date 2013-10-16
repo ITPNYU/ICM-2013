@@ -181,8 +181,10 @@ Week 7 -- Pixels
     - Kinect
         - [Install SimpleOpenNI Library](https://code.google.com/p/simple-openni/wiki/Installation#OSX)
         - [Kinect Track Closest](https://github.com/ITPNYU/Comperas/tree/master/KinectTrackClosest)
+        - [Kinect Track Hand](https://github.com/ITPNYU/Comperas/tree/master/KinectSimpleOneHandTracking)
         - [Kinect Track Body Parts](https://github.com/ITPNYU/Comperas/tree/master/KinectBodyPartLocations)
         - [Assorted Camera Tracking Stuff](https://github.com/ITPNYU/Comperas)
+        - 
 - Other libraries of note
     - [BlobDetection](http://www.v3ga.net/processing/BlobDetection/)
     - [OpenTSPS](http://opentsps.com/)
