@@ -184,13 +184,11 @@ Week 7 -- Pixels
         - [Kinect Track Hand](https://github.com/ITPNYU/Comperas/tree/master/KinectSimpleOneHandTracking)
         - [Kinect Separate User and Background](https://github.com/ITPNYU/Comperas/tree/master/KinectBackgroundRemoval)
         - [Kinect Track Body Parts](https://github.com/ITPNYU/Comperas/tree/master/KinectBodyPartLocations)
-        - 
-        - [Assorted Camera Tracking Stuff](https://github.com/ITPNYU/Comperas)
-        - 
-- Other libraries of note
-    - [BlobDetection](http://www.v3ga.net/processing/BlobDetection/)
-    - [OpenTSPS](http://opentsps.com/)
-    - [Community Core Vision](http://ccv.nuigroup.com/)
+    - [Assorted Camera Tracking Stuff](https://github.com/ITPNYU/Comperas)
+    - Other libraries of note
+        - [BlobDetection](http://www.v3ga.net/processing/BlobDetection/)
+        - [OpenTSPS](http://opentsps.com/)
+        - [Community Core Vision](http://ccv.nuigroup.com/)
 - Related reading:
     - Learning Processing, Chapters 15-16
 - Homework: Pixels Project
