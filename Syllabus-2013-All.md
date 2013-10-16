@@ -174,8 +174,10 @@ Week 7 -- Pixels
     - Chapter 16: https://github.com/shiffman/LearningProcessing/tree/master/chp16_video
     - Exercise: Make a mirror that paints your portrait
 - Computer vision:
+    - [Screen Pixels](https://github.com/ITPNYU/Comperas/tree/master/Pixels)
     - [Simple color tracking](https://github.com/shiffman/LearningProcessing/tree/master/chp16_video/example_16_11_ColorTrack)
     - Face detection with [OpenCV for Processing](https://github.com/atduskgreg/opencv-processing/releases)
+    - [Network Camera](https://github.com/ITPNYU/Comperas/tree/master/NetworkCameraCaptureObject)
     - Kinect
         - [Install SimpleOpenNI Library](https://code.google.com/p/simple-openni/wiki/Installation#OSX)
         - [Kinect Track Closest](https://github.com/ITPNYU/Comperas/tree/master/KinectTrackClosest)
