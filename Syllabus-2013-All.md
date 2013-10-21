@@ -222,7 +222,8 @@ Week 8 -- Data
     - http://wiki.processing.org/w/Threading
     - [thread() example](https://github.com/shiffman/LearningProcessing/blob/master/chp18_data/Threads/Threads.pde)
 - Discussion of APIs and Databases
-- Web security in JS mode, sandbox, etc.
+    - [Yahoo Weather library](http://www.onformative.com/lab/google-weather-library-for-processing/)
+    - Twitter API JSON Example -- Coming Soon!
 - You can read Chapters 17-18 from Learning Processing but chapter 18 is especially out of date.
 - Data / Text projects and resources
     - Eyeo Festival Talks:
