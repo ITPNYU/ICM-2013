@@ -70,7 +70,6 @@ Class Dates
     - Video Tracking:
         - [Simple_track_video_brightness] (http://itp.nyu.edu/~dr99/ICM/icm_image/Simple_track_video_brightness.pde)
         - [Simple_track_video_colors] (http://itp.nyu.edu/~dr99/ICM/icm_image/Simple_track_video_colors.pde)
-
 - Week 8: October 23
     - [Slides from class] (https://docs.google.com/presentation/d/10kA0SCboV6PeptCYDm5J9TTWM0ibYjR-B2p2VRo3dws/edit?usp=sharing)
     - [Examples from class] (http://itp.nyu.edu/~dr99/ICM/Strings.zip)
