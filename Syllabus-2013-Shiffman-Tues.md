@@ -172,30 +172,41 @@ Week 6 -- Vectors and Simulation
 Week 7 -- Pixels
 --------------------------------
 - Images
-    - Load and display
-    - Sequence
-    - Image Processing and the Pixel Array
+    - Load and display images
+    - Writing pixels to screen
+    - Reading image pixels, image processing: brightness, threshold, etc
+    - Chapter 15: https://github.com/shiffman/LearningProcessing/tree/master/chp15_images_pixels
+    - Exercise: make an interactive image processing filter
 - Video: 
-    - Live video input
-    - Movie playback
-- Examples:
-    - In class: https://github.com/ITPNYU/ICM/tree/master/in-class-examples/week7
-    - Updated chapter 15: https://github.com/ITPNYU/ICM/tree/master/LearningProcessing/chp15
-    - Updated chapter 16: https://github.com/ITPNYU/ICM/tree/master/LearningProcessing/chp16
-    - Dano's examples: https://github.com/ITPNYU/Comperas
-- Contributed Processing Libraries
-    - Kinect: http://code.google.com/p/simple-openni/, http://www.shiffman.net/p5/kinect/ (possibly out of date)
-    - OpenCV: http://www.mon-club-elec.fr/pmwiki_reference_lib_javacvPro/pmwiki.php -- new OpenCV library for Processing 2.0!  In french.  Also, see: http://codeanticode.wordpress.com/2011/11/21/opencv-2-in-processing/
-    - BlobDetection: http://www.v3ga.net/processing/BlobDetection/
-    - CCV + TUIO: http://ccv.nuigroup.com/, http://www.tuio.org/?processing
+    - Live video (Capture) and movie playback (Movie)
+    - Drawing shapes on screen colored by pixels
+    - Chapter 16: https://github.com/shiffman/LearningProcessing/tree/master/chp16_video
+    - Exercise: Make a mirror that paints your portrait
+- Computer vision:
+    - [Screen Pixels](https://github.com/ITPNYU/Comperas/tree/master/Pixels)
+    - [Simple color tracking](https://github.com/shiffman/LearningProcessing/tree/master/chp16_video/example_16_11_ColorTrack)
+    - Face detection with [OpenCV for Processing](https://github.com/atduskgreg/opencv-processing/releases)
+        - [Examples](https://github.com/shiffman/Face-It/tree/master/OpenCV)   
+    - [Network Camera](https://github.com/ITPNYU/Comperas/tree/master/NetworkCameraCaptureObject)
+    - Kinect
+        - [Install SimpleOpenNI Library](https://code.google.com/p/simple-openni/wiki/Installation#OSX)
+        - [Kinect Track Closest](https://github.com/ITPNYU/Comperas/tree/master/KinectTrackClosest)
+        - [Kinect Track Hand](https://github.com/ITPNYU/Comperas/tree/master/KinectSimpleOneHandTracking)
+        - [Kinect Separate User and Background](https://github.com/ITPNYU/Comperas/tree/master/KinectBackgroundRemoval)
+        - [Kinect Track Body Parts](https://github.com/ITPNYU/Comperas/tree/master/KinectBodyPartLocations)
+    - [Assorted Camera Tracking Stuff](https://github.com/ITPNYU/Comperas)
+    - Other libraries of note
+        - [BlobDetection](http://www.v3ga.net/processing/BlobDetection/)
+        - [OpenTSPS](http://opentsps.com/)
+        - [Community Core Vision](http://ccv.nuigroup.com/)
 - Related reading:
     - Learning Processing, Chapters 15-16
 - Homework: Pixels Project
-    - Develop a project that uses images and pixels.  For this project you should document your work in a blog post in addition to creating the Processing sketch.  You can present in class using your laptop or put your sketch into dropbox.  Here are some ideas:
+    - Develop a project that uses images and pixels.  For this project you should document your work in a blog post in addition to creating the Processing sketch.  Note that examples that use Capture of Movie will not work in JavaScript mode.  You can present in class using your laptop or put your sketch into dropbox.  Here are some ideas:
         - Create a software mirror by designing an abstract drawing machine which you color according to pixels from live video.
         - Create a video player.  Consider combining your pcomp media controller assignment and build a Processing sketch that allows you to switch between videos, process pixels of a video, scrub a video, etc.
         - Use the kinect to track a skeleton.  Can you "puppeteer" an avatar/animation with the kinect?
-    - Note that only the names in bold (1/3 of the class) on the wiki will present next week. Everyone else will either present the "video" or data" assignments in the following weeks. You should all complete both assignments, however, and of course you can present more if you have a question or something you really want to get feedback on. Feel free to switch with each other or e-mail me if you would like to switch.
+    - Note that only the names in bold (1/3 of the class) on the wiki will present next week.  You should all complete all assignments, however, and of course you can present more if you have a question or something you really want to get feedback on. Feel free to switch with each other or e-mail me if you would like to switch.
 
 Week 8 -- Data
 -----------------------------
