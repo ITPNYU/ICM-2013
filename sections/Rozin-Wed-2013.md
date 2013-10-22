@@ -73,6 +73,7 @@ Class Dates
 
 - Week 8: October 23
     - [Slides from class] (https://docs.google.com/presentation/d/10kA0SCboV6PeptCYDm5J9TTWM0ibYjR-B2p2VRo3dws/edit?usp=sharing)
+    - [Examples from class] (http://itp.nyu.edu/~dr99/ICM/Strings.zip)
 - Week 9: October 30
 - Week 10: November 6
 - Week 11: November 13
