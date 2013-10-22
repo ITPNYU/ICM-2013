@@ -224,6 +224,8 @@ Week 8 -- Data
 - Discussion of APIs and Databases
     - [Yahoo Weather library](http://www.onformative.com/lab/google-weather-library-for-processing/)
     - Twitter API JSON Example -- Coming Soon!
+    - Google image search JSON -- Coming Soon!
+    - Connecting to commlab web: [Processing Client](https://github.com/ITPNYU/ICM-2013/blob/master/examples/commlabweb/LoadSaveJSONtoServerPHP/LoadSaveJSONtoServerPHP.pde)[PHP Source](http://itp.nyu.edu/~sve204/commlabweb_fall2013/week6.html)
 - You can read Chapters 17-18 from Learning Processing but chapter 18 is especially out of date.
 - Data / Text projects and resources
     - Eyeo Festival Talks:
