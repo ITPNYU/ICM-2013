@@ -85,6 +85,7 @@ Class Dates
         - [video kaleidoscope] (http://itp.nyu.edu/~dr99/ICM/3D/video_kaleidoscope.pde)
     - 3D
         - [face] (http://itp.nyu.edu/~dr99/ICM/3D/face.pde)
+        - [grid of boxes] (http://itp.nyu.edu/~dr99/ICM/3D/grid_of_boxes.pde)
     - video tracking and masking
 - Week 10: November 6
 - Week 11: November 13
