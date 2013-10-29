@@ -213,28 +213,28 @@ Week 8 -- Data
 - Pixel project presentations.  
 - Basics of working with Strings
     - Tutorial: http://processing.org/learning/text/
-    - Examples: https://github.com/ITPNYU/ICM/tree/master/week8-data/1_Strings
+    - [Updated Learning Processing example](https://github.com/shiffman/LearningProcessing/tree/master/chp17_strings)
     - [Java String documentation](http://docs.oracle.com/javase/1.5.0/docs/api/java/lang/String.html)
     - [Chris Kairalla String Basics Demo](http://itp.nyu.edu/~ck987/icm2012/week8/strings/)
-- Loading (and saving) external data to local files
-    - loadStrings(): https://github.com/ITPNYU/ICM/tree/master/week8-data/2_loadStrings
-    - loadTable(): https://github.com/ITPNYU/ICM/tree/master/week8-data/3_loadTable
-- Loading from URL
-    - [Chris Kairalla HTML Scraping Demo](http://itp.nyu.edu/~ck987/icm2012/week8/html_scrape/)
-    - [Word counts from Project Gutenberg](http://www.learningprocessing.com/examples/chapter-18/example-18-6/)
-    - [Character counts from Project Gutenberg](http://www.learningprocessing.com/exercises/chapter-18/exercise-18-10/)
-- XML
-    - https://github.com/ITPNYU/ICM/tree/master/week8-data/4_xml
+    - [loadStrings()](http://processing.org/reference/loadStrings_.html)
+- Word Counting
+    - [IntDict reference](http://processing.org/reference/IntDict.html)
+    - [Manual parsing and counting](https://github.com/shiffman/LearningProcessing/blob/master/chp18_data/example_18_6_analyzekinglear_manual/example_18_6_analyzekinglear_manual.pde)
+    - [Using a "Dictionary"](https://github.com/shiffman/LearningProcessing/blob/master/chp18_data/example_18_6_analyzekinglear_IntDict/example_18_6_analyzekinglear_IntDict.pde)
+    - [Word counting animation](https://github.com/shiffman/LearningProcessing/blob/master/chp18_data/CountingStrings/CountingStrings.pde)
+    - [Super advanced counting using HashMap](https://github.com/shiffman/LearningProcessing/tree/master/chp18_data/HashMapClass)
+- Data formats
+    - [Table reference](http://processing.org/reference/loadTable_.html), [LoadSaveTable](https://github.com/shiffman/LearningProcessing/tree/master/chp18_data/LoadSaveTable)
+    - [XML Reference](http://processing.org/reference/XML.html), [LoadSaveXML](https://github.com/shiffman/LearningProcessing/tree/master/chp18_data/LoadSaveXML)
+    - [JSONObject reference](http://processing.org/reference/loadJSONObject_.html), [JSONArray reference](http://processing.org/reference/loadJSONArray_.html), [LoadSaveJSON](https://github.com/shiffman/LearningProcessing/tree/master/chp18_data/LoadSaveJSON)   
 - Threads
     - http://wiki.processing.org/w/Threading
-    - https://github.com/ITPNYU/ICM/tree/master/week8-data/6_threads
+    - [thread() example](https://github.com/shiffman/LearningProcessing/blob/master/chp18_data/Threads/Threads.pde)
 - Discussion of APIs and Databases
-- Web security in JS mode, sandbox, etc.
-- Connecting with CommLab web
-    - Chris Kairalla's Joke Demo: http://itp.nyu.edu/~ck987/sinatra/joke-repo
-    - [Joke Repo Web App source code](https://github.com/chris3000/joke-repo)
-    - [Joke Client in Processing](http://itp.nyu.edu/~ck987/icm2012/week8/joke_client/) -XML VERSION
-    - [Joke Client in Processing](http://itp.nyu.edu/~ck987/icm2012/week8/joke_client_json/) -JSON VERSION
+    - [Yahoo Weather library](http://www.onformative.com/lab/google-weather-library-for-processing/)
+    - [NYTimes API using JSON](https://github.com/ITPNYU/ICM-2013/blob/master/sections/Mimi-Wed-2013-Examples/Week%208/nyt/nyt.pde)
+    - [Google image search JSON](https://github.com/ITPNYU/ICM-2013/blob/master/examples/JSON_Google_Image.pde)
+    - Connecting to commlab web: [Processing Client](https://github.com/ITPNYU/ICM-2013/blob/master/examples/commlabweb/LoadSaveJSONtoServerPHP/LoadSaveJSONtoServerPHP.pde)[PHP Source](http://itp.nyu.edu/~sve204/commlabweb_fall2013/week6.html)
 - You can read Chapters 17-18 from Learning Processing but chapter 18 is especially out of date.
 - Data / Text projects and resources
     - Eyeo Festival Talks:
@@ -259,7 +259,7 @@ Week 8 -- Data
         -  Count word frequencies in two different text sources (i.e. two different authors, two different newspapers, two different political speeches) and visualize the concordance.
         -  Visualize weather data (http://developer.yahoo.com/weather/)
         - Connect a Processing sketch to a web app that you create (applicable if you are taking ICM web).
-    - If you do not present your pixels assignment, you will present you data assignment next week.
+    - If you did not present your simulation or pixels assignment, you will present you data assignment next week.
 
 Week 9 -- Bonus Topics (we will not do all of these in class but there will be a sampling)
 -----------------------------
