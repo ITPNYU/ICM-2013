@@ -91,6 +91,7 @@ Class Dates
         - [texture] (http://itp.nyu.edu/~dr99/ICM/3D/vertex_texture.pde)
         - [all examples in zip] (http://itp.nyu.edu/~dr99/ICM/3D/all_3d_examples.zip)
     - video tracking and masking
+        - [all examples in zip] (http://itp.nyu.edu/~dr99/ICM/ICM_class_8.zip)
 - Week 10: November 6
 - Week 11: November 13
 - Week 12: November 20
