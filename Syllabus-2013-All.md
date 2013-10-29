@@ -225,7 +225,7 @@ Week 8 -- Data
     - [Yahoo Weather library](http://www.onformative.com/lab/google-weather-library-for-processing/)
     - [NYTimes API using JSON](https://github.com/ITPNYU/ICM-2013/blob/master/sections/Mimi-Wed-2013-Examples/Week%208/nyt/nyt.pde)
     - [Google image search JSON](https://github.com/ITPNYU/ICM-2013/blob/master/examples/JSON_Google_Image.pde)
-    - Connecting to commlab web: [Processing Client](https://github.com/ITPNYU/ICM-2013/blob/master/examples/commlabweb/LoadSaveJSONtoServerPHP/LoadSaveJSONtoServerPHP.pde)[PHP Source](http://itp.nyu.edu/~sve204/commlabweb_fall2013/week6.html)
+    - Connecting to commlab web: [Processing Client](https://github.com/ITPNYU/ICM-2013/blob/master/examples/commlabweb/LoadSaveJSONtoServerPHP/LoadSaveJSONtoServerPHP.pde), [PHP Source](http://itp.nyu.edu/~sve204/commlabweb_fall2013/week6.html)
 - You can read Chapters 17-18 from Learning Processing but chapter 18 is especially out of date.
 - Data / Text projects and resources
     - Eyeo Festival Talks:
