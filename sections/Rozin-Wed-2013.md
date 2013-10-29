@@ -78,6 +78,9 @@ Class Dates
         - [load and save XML] (https://github.com/shiffman/LearningProcessing/tree/master/chp18_data/LoadSaveXML)
         - [yahoo weather XML] (https://github.com/shiffman/LearningProcessing/tree/master/chp18_data/XMLYahooWeather)
         - [more examples...] (https://github.com/shiffman/LearningProcessing/tree/master/chp18_data)
+    - transforms
+    - 3D
+    - video tracking and masking
 - Week 10: November 6
 - Week 11: November 13
 - Week 12: November 20
