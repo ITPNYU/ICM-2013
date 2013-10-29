@@ -88,6 +88,7 @@ Class Dates
         - [grid of boxes] (http://itp.nyu.edu/~dr99/ICM/3D/grid_of_boxes.pde)
         - [color per vertex] (http://itp.nyu.edu/~dr99/ICM/3D/vertex_color.pde)
         - [video faces] (http://itp.nyu.edu/~dr99/ICM/3D/video_faces.pde)
+        - [texture] (http://itp.nyu.edu/~dr99/ICM/3D/vertex_texture.pde)
     - video tracking and masking
 - Week 10: November 6
 - Week 11: November 13
