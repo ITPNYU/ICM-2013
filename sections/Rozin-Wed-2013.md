@@ -81,6 +81,7 @@ Class Dates
     - transforms
         - [translate rectangles] (http://itp.nyu.edu/~dr99/ICM/3D/translate_rectangles.pde)
         - [scale push matrix] (http://itp.nyu.edu/~dr99/ICM/3D/scale_pushMatrix.pde)
+        - [rotate- clock] ( http://itp.nyu.edu/~dr99/ICM/3D/clock.pde)
     - 3D
     - video tracking and masking
 - Week 10: November 6
