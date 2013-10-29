@@ -79,6 +79,7 @@ Class Dates
         - [yahoo weather XML] (https://github.com/shiffman/LearningProcessing/tree/master/chp18_data/XMLYahooWeather)
         - [more examples...] (https://github.com/shiffman/LearningProcessing/tree/master/chp18_data)
     - transforms
+        - [translate rectangles] (http://itp.nyu.edu/~dr99/ICM/3D/translate_rectangles.pde)
     - 3D
     - video tracking and masking
 - Week 10: November 6
