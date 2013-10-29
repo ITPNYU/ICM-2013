@@ -76,6 +76,8 @@ Class Dates
 - Week 9: October 30
     - Data, continue from last week
         - [load and save XML] (https://github.com/shiffman/LearningProcessing/tree/master/chp18_data/LoadSaveXML)
+        - [yahoo weather XML] (https://github.com/shiffman/LearningProcessing/tree/master/chp18_data/XMLYahooWeather)
+        - [more examples...] (https://github.com/shiffman/LearningProcessing/tree/master/chp18_data)
 - Week 10: November 6
 - Week 11: November 13
 - Week 12: November 20
