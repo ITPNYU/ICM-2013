@@ -80,6 +80,7 @@ Class Dates
         - [more examples...] (https://github.com/shiffman/LearningProcessing/tree/master/chp18_data)
     - transforms
         - [translate rectangles] (http://itp.nyu.edu/~dr99/ICM/3D/translate_rectangles.pde)
+        - [scale push matrix] (http://itp.nyu.edu/~dr99/ICM/3D/scale_pushMatrix.pde)
     - 3D
     - video tracking and masking
 - Week 10: November 6
