@@ -94,6 +94,7 @@ Class Dates
         - [all examples in zip] (http://itp.nyu.edu/~dr99/ICM/ICM_class_8.zip)
     - Kinect
         - [remove background with kinect] (http://itp.nyu.edu/~dr99/ICM/kinect/kinect_remove_background_user.pde)
+        - [track skeleton with kinect] (http://itp.nyu.edu/~dr99/ICM/kinect/User.pde)
 - Week 10: November 6
 - Week 11: November 13
 - Week 12: November 20
