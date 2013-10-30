@@ -83,7 +83,8 @@ Class Dates
         - [scale push matrix] (http://itp.nyu.edu/~dr99/ICM/3D/scale_pushMatrix.pde)
         - [video kaleidoscope] (http://itp.nyu.edu/~dr99/ICM/3D/video_kaleidoscope.pde)
     - Time / Timer
-        - [rotate- clock] ( http://itp.nyu.edu/~dr99/ICM/3D/clock.pde)
+        - [rotate- clock] (http://itp.nyu.edu/~dr99/ICM/3D/clock.pde)
+        - [timer] (http://itp.nyu.edu/~dr99/ICM/timer.pde)
     - 3D
         - [face] (http://itp.nyu.edu/~dr99/ICM/3D/face.pde)
         - [grid of boxes] (http://itp.nyu.edu/~dr99/ICM/3D/grid_of_boxes.pde)
