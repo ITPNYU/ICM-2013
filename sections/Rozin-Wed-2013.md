@@ -92,6 +92,8 @@ Class Dates
         - [all examples in zip] (http://itp.nyu.edu/~dr99/ICM/3D/all_3d_examples.zip)
     - video tracking and masking
         - [all examples in zip] (http://itp.nyu.edu/~dr99/ICM/ICM_class_8.zip)
+    - Kinect
+        - [remove background with kinect] (http://itp.nyu.edu/~dr99/ICM/kinect/kinect_remove_background_user.pde)
 - Week 10: November 6
 - Week 11: November 13
 - Week 12: November 20
