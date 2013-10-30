@@ -78,11 +78,12 @@ Class Dates
         - [load and save XML] (https://github.com/shiffman/LearningProcessing/tree/master/chp18_data/LoadSaveXML)
         - [yahoo weather XML] (https://github.com/shiffman/LearningProcessing/tree/master/chp18_data/XMLYahooWeather)
         - [more examples...] (https://github.com/shiffman/LearningProcessing/tree/master/chp18_data)
-    - transforms
+    - Transforms
         - [translate rectangles] (http://itp.nyu.edu/~dr99/ICM/3D/translate_rectangles.pde)
         - [scale push matrix] (http://itp.nyu.edu/~dr99/ICM/3D/scale_pushMatrix.pde)
-        - [rotate- clock] ( http://itp.nyu.edu/~dr99/ICM/3D/clock.pde)
         - [video kaleidoscope] (http://itp.nyu.edu/~dr99/ICM/3D/video_kaleidoscope.pde)
+    - Time / Timer
+        - [rotate- clock] ( http://itp.nyu.edu/~dr99/ICM/3D/clock.pde)
     - 3D
         - [face] (http://itp.nyu.edu/~dr99/ICM/3D/face.pde)
         - [grid of boxes] (http://itp.nyu.edu/~dr99/ICM/3D/grid_of_boxes.pde)
