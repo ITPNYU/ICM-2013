@@ -93,6 +93,7 @@ Class Dates
     - video tracking and masking
         - [all examples in zip] (http://itp.nyu.edu/~dr99/ICM/ICM_class_8.zip)
     - Kinect
+        - [kinect depth image + RGB image] (ttp://itp.nyu.edu/~dr99/ICM/kinect/DepthImage.pde)
         - [remove background with kinect] (http://itp.nyu.edu/~dr99/ICM/kinect/kinect_remove_background_user.pde)
         - [track skeleton with kinect] (http://itp.nyu.edu/~dr99/ICM/kinect/User.pde)
 - Week 10: November 6
