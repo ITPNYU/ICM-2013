@@ -7,8 +7,8 @@
  * See AccelerationWithVectors for an example of how to simulate motion using vectors in an object
  */
 
-import peasy.*;
-PeasyCam cam;
+//import peasy.*;
+//PeasyCam cam;
 
 PVector location;  // Location of shape
 PVector velocity;  // Velocity of shape
@@ -22,9 +22,9 @@ void setup() {
   // Set initial x,y,z speed of ball
   velocity = new PVector(1.5, 2.1, 1.7);
 
-  cam = new PeasyCam(this, 200);
-  cam.setMinimumDistance(-100);
-  cam.setMaximumDistance(100);
+//  cam = new PeasyCam(this, 200);
+//  cam.setMinimumDistance(-100);
+//  cam.setMaximumDistance(100);
 }
 
 void draw() {
