@@ -283,7 +283,15 @@ Week 9 -- Bonus Topics (we will not do all of these in class but there will be a
 - JavaScript
     - [Using Processing on the web by Aaron Sherwood](http://aaron-sherwood.com/processingjs/)
     - [A new Processing JavaScript Framework](https://github.com/lmccart/processing-js)
-- Homework: Prepare a final project proposal.  Create a web page or blog post with title, description, sample imagery, diagrams, Processing code, etc.  Be prepared to present your proposal to the class next week.
+- Homework: Prepare a final project proposal.  Create a web page or blog post with title, description, sample imagery, diagrams, Processing code, etc.  Be prepared to present your proposal to the class next week in about 5 minutes (leaving ~5 minutes for discussion).  It's up to you to figure out how to best demonstrate your idea, but I suggest you include the following:
+   * Titl
+   * One sentence "What is it"?
+   * Who is the audience?
+   * Something visual for us to look at in class: drawings, images, video, etc.
+   * A sample Processing sketch that demonstrates a first step
+   * References: links to related projects, code samples, etc.
+   * Questions for the class (conceptual or technical)
+   * [Here are some sample final project proposals](https://github.com/ITPNYU/ICM-2013/wiki/Final-project-samples).
 
 Week 10 --  Propose Final Projects
 -----------------------------
