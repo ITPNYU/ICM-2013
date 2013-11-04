@@ -50,9 +50,9 @@ Class Dates
 - Week 4: September 25
 - Week 5: October 2
 - Week 6: October 9
-- Week 7: October 23
-- Week 8: October 30
-- Week 9: November 6
-- Week 10: November 13
-- Week 11: November 20
-- Week 12: November 27
+- Week 7: October 16
+- Week 8: October 23
+- Week 9: October 30
+- Week 10: November 6
+- Week 11: November 13
+- Week 12: November 20
