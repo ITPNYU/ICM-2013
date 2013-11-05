@@ -264,11 +264,10 @@ Week 8 -- Data
 Week 9 -- Bonus Topics (we will not do all of these in class but there will be a sampling)
 -----------------------------
 - Translate, Rotate, Scale: http://processing.org/learning/transform2d/
-    - Examples from Chris Kairalla
-        - [Godzilla](http://itp.nyu.edu/~ck987/icm2012/week9/godzilla/)
-        - [Danny Rozin's Clock](http://itp.nyu.edu/~ck987/icm2012/week9/clock/)
-        - [Danny Rozin's 3D Box Grid](http://itp.nyu.edu/~ck987/icm2012/week9/3d_box_grid/)
-        - [Solar System](http://itp.nyu.edu/~ck987/icm2012/week9/planets/) - Advanced Level Demo
+    - [Godzilla](http://itp.nyu.edu/~ck987/icm2012/week9/godzilla/)
+    - [Clock](http://itp.nyu.edu/~ck987/icm2012/week9/clock/)
+    - [3D Box Grid](http://itp.nyu.edu/~ck987/icm2012/week9/3d_box_grid/)
+    - [Solar System](http://itp.nyu.edu/~ck987/icm2012/week9/planets/) - Advanced Level Demo
 - P3D: http://processing.org/learning/p3d/
     - 3D shapes, vertices
     - textures
@@ -276,23 +275,32 @@ Week 9 -- Bonus Topics (we will not do all of these in class but there will be a
     - shaders
 - PShape: http://processing.org/learning/pshape/
 - PGraphics
-    - Examples from Chris Kairalla
-        - [Simple PGraphics Demo](http://itp.nyu.edu/~ck987/icm2012/week9/pgraphics/)
-        - [PGraphics Grid](http://itp.nyu.edu/~ck987/icm2012/week9/pgraphics_grid/)
-- ArrayList
-    - [History of mouse movements](https://github.com/ITPNYU/ICM/blob/master/in-class-examples/week11/PVectorExamples/TrailPVectorArrayList/TrailPVectorArrayList.pde)
-    - [Java Documentation](http://docs.oracle.com/javase/6/docs/api/java/util/ArrayList.html)
-    - [Simple Particle System](http://processing.org/learning/topics/simpleparticlesystem.html)
+    - [Simple PGraphics Demo](http://itp.nyu.edu/~ck987/icm2012/week9/pgraphics/)
+    - [PGraphics Grid](http://itp.nyu.edu/~ck987/icm2012/week9/pgraphics_grid/)
+- Simulation: 
+  - Programming motion with vectors
+      - [PVector tutorial](http://processing.org/tutorials/pvector/)
+      - [Examples](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp1_vectors)
+  - Simple physics engine
+      - [Chapter 2: The Nature of Code](http://natureofcode.com/book/chapter-2-forces/)
+      - [Examples](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp2_forces)
 - Java
     - [Robot Class example](https://github.com/ITPNYU/ICM/blob/master/in-class-examples/week11/RobotExample/RobotExample.pde), [Robot Java Documentation](http://docs.oracle.com/javase/6/docs/api/java/awt/Robot.html)
     - [Try/Catch, Exceptions](http://wiki.processing.org/w/Exceptions)
     - [Processing in Eclipse](http://processing.org/learning/eclipse/)
     - [Processing in Sublime](https://github.com/b-g/processing-sublime)
-    - Processing.js embedded in webpage
-        - [Simple Example](https://github.com/ITPNYU/ICM/tree/master/extras/manualprocessingjs)
-        - [Processing.js Guide](http://processingjs.org/articles/PomaxGuide.html)
-
-- Homework: Prepare a final project proposal.  Create a web page or blog post with title, description, sample imagery, diagrams, Processing code, etc.  Be prepared to present your proposal to the class next week.
+- JavaScript
+    - [Using Processing on the web by Aaron Sherwood](http://aaron-sherwood.com/processingjs/)
+    - [A new Processing JavaScript Framework](https://github.com/lmccart/processing-js)
+- Homework: Prepare a final project proposal.  Create a web page or blog post with title, description, sample imagery, diagrams, Processing code, etc.  Be prepared to present your proposal to the class next week in about 5 minutes (leaving ~5 minutes for discussion).  It's up to you to figure out how to best demonstrate your idea, but I suggest you include the following:
+   * Titl
+   * One sentence "What is it"?
+   * Who is the audience?
+   * Something visual for us to look at in class: drawings, images, video, etc.
+   * A sample Processing sketch that demonstrates a first step
+   * References: links to related projects, code samples, etc.
+   * Questions for the class (conceptual or technical)
+   * [Here are some sample final project proposals](https://github.com/ITPNYU/ICM-2013/wiki/Final-project-samples).
 
 Week 10 --  Propose Final Projects
 -----------------------------
